@@ -2,7 +2,7 @@
 layout: page
 title: What We Do
 subtitle: Global issues and global solutions
-cover-img: /assets/img/Terraced_Rice_Field_Left_Cropped.jpg
+cover-img: /assets/img/Terraced_Rice_Field_Left.jpg
 ---
 * **Collaborative Research.**  Just as the Global Restoration Project encompasses a cluster of distinct areas of expertise, many of our members combine backgrounds in law and policy relating to energy, ecology, intellectual property, agriculture, international relations, and more.  But we do not concentrate solely on law and policy:  our members also contribute expertise in geology, technology, climate change, and earth sciences generally – even art and philosophy.  With this array of experience and interest, we collaborate in our research in order to achieve solutions that no single discipline can hope to offer.
 
