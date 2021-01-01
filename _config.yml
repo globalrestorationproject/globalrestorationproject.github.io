@@ -228,7 +228,7 @@ plugins:
   - jekyll-sitemap
   
 
-paginate_path = "/blog/page:num/"
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
