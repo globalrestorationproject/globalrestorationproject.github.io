@@ -14,11 +14,18 @@ title: The Global Restoration Project
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: 
+    - Why We Started: "whywestarted"
+    - What We Believe: "whatwebelieve"
+    - What We Do: "whatwedo"
+    - Future We're Builidng: "future"
+  Contact:
+    - Pesonnel: "personnel"
+    - Partners: "partners"
+  Resources: 
+    - Linkages: "linkages"
+    - Publications: "publications"
+    - Essays: "essays"
   Blog: blog
 
 # --- Logo --- #
