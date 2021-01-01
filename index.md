@@ -7,8 +7,6 @@ cover-img: /assets/img/homepage.jpg
 
 ![test](/assets/img/home_page_body.png)
 
-testing 8349
-
 ![test](/assets/img/RE.jpg)
 
 ![test](/assets/img/ST.jpg)
