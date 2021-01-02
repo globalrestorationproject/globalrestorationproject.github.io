@@ -7,7 +7,7 @@ tags: [commentary]
 ---
 ### Commentary: Peter Turchin’s Cliodynamics & Dire Predictions
 
-**Author: Emily Otte**
+**Author: Emily Otte**, KU School of Law
 
 [The Next Decade Could Be Even Worse, by Graeme Wood for The Atlantic](https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/)
 
