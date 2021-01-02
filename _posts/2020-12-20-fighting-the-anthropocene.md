@@ -4,7 +4,7 @@ title: Fighting the Anthropocene
 subtitle: Invited Essay
 cover-img: /assets/img/person_tossing_globe.jpg
 thumbnail-img: /assets/img/person_tossing_globe.jpg
-tags: [invited_essays]
+tags: [invited_essay]
 ---
 ### Fighting the Anthropocene
 
