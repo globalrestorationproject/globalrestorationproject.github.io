@@ -2,7 +2,7 @@
 layout: page
 title: What We Believe
 subtitle:  Eco-centric reformation
-cover-img: /assets/img/rice_field_panorama.jpg
+cover-img: /assets/img/golden_grasses.jpg
 ---
 
 **The Global Restoration Projects believes that radical transformation of humanity's relationship with nature and, accordingly, a radical transformation of modern agriculture, is not only possible, but necessary, to save and restore a living planet earth.  We believe in an eco-centric approach to solving the climate crisis and the agricultural crisis that utilizes *Responsible Energy, Smart Technology, and a Organic and Resilient Agroecology* to develop a new natural-systems form of agriculture that will reverse  environmental degradation.**   
