@@ -8,7 +8,7 @@ tags: [commentary]
 
 ### Commentary: Regenerative Agriculture Featured in *Vogue* as Fashion Moves Beyond Sustainability
 
-**Author: Emily Otte** 
+**Author: Emily Otte**, KU School of Law
 
 Commenting on *Regenerative Agriculture Can Change the Fashion Industry--And the World. But What Is It?* by Emily Farra for *Vogue*, available  [here](https://www.vogue.com/article/regenerative-agriculture-sustainable-fashion-christy-dawn-fibershed). 
 
