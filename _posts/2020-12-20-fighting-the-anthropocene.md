@@ -8,7 +8,7 @@ tags: [invited_essay]
 ---
 ### Fighting the Anthropocene
 
-**Author:  Holly Aker**
+**Author:  Holly Aker**, KU School of Law
 
 Technically, the decision of whether or not humans have shifted our current epoch to a point where it earns a separate place on the geological time scale is a 
 determination by physical science. The designation can only occur if a series of votes by bodies of geologists favor the distinction. These geologists are looking 
