@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications 
+title: Working Papers 
 cover-img: /assets/img/tall_grass_grassland.jpg
 ---
 ##### Legal Regimes Governing Seeds
