@@ -6,6 +6,7 @@ cover-img: /assets/img/aerial_green_field.jpg
 
 **Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.**  
 
+---
 
 #### Global Legal Regimes to Protect the World's Grasslands, by John W. Head
 Available [here](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
@@ -22,6 +23,7 @@ and between common needs versus individual property rights, in ways that have do
 crucial aspect of our natural environment. He then offers observations both on “underlying causes” and on “overarching solutions” — with special emphasis on the 
 relationship between agriculture and grasslands and on the role that international law and institutions might play in undertaking an aggressive program of action to 
 protect the world’s grasslands for succeeding generations of our species and others.
+
 ---
 
 #### International Law and Agroecological Husbandry, by John W. Head
