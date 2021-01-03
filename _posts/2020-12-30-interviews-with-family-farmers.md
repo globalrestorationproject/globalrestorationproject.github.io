@@ -7,7 +7,7 @@ tags: [invited_essay]
 ---
 ### Interviews with (My) Family Farmers
 #### Lessons Learned From a Very, Very Small Dataset
-**Author: Emily Otte**
+**Author: Emily Otte**, KU School of Law
 
 Agriculture is a singular industry.  In the modern era, to be a farmer is to be botanist, chemist, commodities trader, and mechanic.  All of the technological progress collides in agriculture and produces phenomena like new seed hybrids every year, new herbicide, new soil analysis tools, new “bells and whistles” on the machinery, the list goes on and on.  I come from a long line of farmers and remain connected to agriculture; my father is a farmer and members of my extended family still farm.  My family are the descendants of Russian Mennonites and I often heard my grandmother boast that the Mennonites are to be credited for turning Kansas into the Breadbasket of the World.  
 
