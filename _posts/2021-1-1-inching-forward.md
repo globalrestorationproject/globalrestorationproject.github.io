@@ -5,10 +5,10 @@ subtitle: Working Paper
 cover-img: /assets/img/plant_growing_bokeh.jpg
 thumbnail-img: /assets/img/plant_growing_bokeh.jpg
 share-img: /assets/img/wheat_canola_field.jpg
-tags: [US, policy, working_paper]
+tags: [working_paper]
 ---
 ### Inching Forward: Legislative Steps Toward Sustainable Agriculture in the United States
-**Author:  Mary Kate Workman**
+**Author:  Mary Kate Workman**, KU School of Law
 
 Conventional agriculture in the United States is harmful for the environment in that the primary crops produced are annual monocultures, which are planted and harvested in an extractive manner. Further, much of today’s conventional agriculture relies on pesticides for crops and antibiotics for livestock, resulting in chemical harm throughout entire ecosystems. While Congress has recognized the US is in need of more sustainable agriculture, the legislative steps taken may be too little too late. 
 
