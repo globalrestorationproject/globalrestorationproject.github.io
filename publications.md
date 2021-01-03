@@ -5,7 +5,7 @@ cover-img: /assets/img/aerial_green_field.jpg
 ---
 
 **Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.**  
----
+
 
 #### Global Legal Regimes to Protect the World's Grasslands, by John W. Head
 Available [here](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
