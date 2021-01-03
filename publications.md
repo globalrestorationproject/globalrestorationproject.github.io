@@ -8,8 +8,8 @@ cover-img: /assets/img/aerial_green_field.jpg
 
 ---
 
-#### Global Legal Regimes to Protect the World's Grasslands, by John W. Head
-Available [here](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
+##### Global Legal Regimes to Protect the World's Grasslands, by John W. Head
+Available [here.](https://cap-press.com/books/isbn/9781594609671/Global-Legal-Regimes-to-Protect-the-Worlds-Grasslands)
 
 Grasslands, prairies, and savannas once covered much of the Earth’s surface. Human action has visited great damage on those natural features, so that today 
 most of them have either disappeared or suffered severe degradation as a result of agricultural conversion, over-grazing, urbanization, species encroachment, 
@@ -26,8 +26,8 @@ protect the world’s grasslands for succeeding generations of our species and o
 
 ---
 
-#### International Law and Agroecological Husbandry, by John W. Head
-Available [here](https://www.routledge.com/International-Law-and-Agroecological-Husbandry-Building-legal-foundations/Head/p/book/9780367029876)
+##### International Law and Agroecological Husbandry, by John W. Head
+Available [here.](https://www.routledge.com/International-Law-and-Agroecological-Husbandry-Building-legal-foundations/Head/p/book/9780367029876)
 
 Remarkable advances are being made in life science and agricultural research to reform the methods of food production, particularly with regard to staple grain and legume crops, in ways that will better reflect ecological realities. However, advances in science may be insufficient to ensure that these possibilities for agricultural reform are realized in practice and in a sustainable way. This book shows how these can only be achieved through changes in legal norms and institutions at the global level. 
 
@@ -35,8 +35,8 @@ Interdisciplinary in character, the book draws from a range of issues involving 
 
 ---
 
-#### A Global Corporate Trust for Agroecological Integrity, by John W. Head
-Available [here](https://www.routledge.com/A-Global-Corporate-Trust-for-Agroecological-Integrity-New-Agriculture-in/Head/p/book/9780367252557)
+##### A Global Corporate Trust for Agroecological Integrity, by John W. Head
+Available [here.](https://www.routledge.com/A-Global-Corporate-Trust-for-Agroecological-Integrity-New-Agriculture-in/Head/p/book/9780367252557)
 
 This book examines global environmental governance and how legal, institutional, and conceptual reform can facilitate a transformation to a new ‘natural-systems’ form of agriculture.
 
@@ -46,8 +46,8 @@ This book will be of great interest to students and scholars of international la
 
 ---
 
-#### Deep Agroecology and the Homeric Epics,  by John W. Head  
-Available [here](https://www.routledge.com/Deep-Agroecology-and-the-Homeric-Epics-Global-Cultural-Reforms-for-a-Natural-Systems/Head/p/book/9780367622190)
+##### Deep Agroecology and the Homeric Epics,  by John W. Head  
+Available [here.](https://www.routledge.com/Deep-Agroecology-and-the-Homeric-Epics-Global-Cultural-Reforms-for-a-Natural-Systems/Head/p/book/9780367622190)
 
 Just as the “Agroecological Husbandry” book (above) focuses mainly on global legal reforms and the “Global Corporate Trust” book (above) focuses mainly on global institutional reforms to facilitate a new agricultural revolution, this most recent book from John Head focuses on global cultural reforms.  In fact, the book’s sub-title says as much; that sub-title is Global Cultural Reforms for a Natural-Systems Agriculture. 
 
