@@ -27,6 +27,13 @@ Available [here.](https://globalrestorationproject.github.io/2020-12-22-smart-te
 
 ---
 
+##### Influential Writers on Agrarian Values and Environmental Protection
+Author: Caleb Hall
+
+This literature survey compiles works from key writers on "agrarian values" and environmental protection and pulls the most important elements of "agrarian advocacy", elements relevant to "natural systems agriculture" or "agroecological husbandry".  Though by no means comprehensive, the survey provides a rich reservoir of information about "agrarian" wroting and advocacy.
+
+---
+
 ##### CITA Working Papers
 For several years, a Center for International Trade and Agriculture operated out of the University of Kansas Law School.  Some of the Working Papers that were published (online) by the CITA have direct relevance to themes that are central to the Global Restoration Project.  For easy access to readers and researchers, five such Working Papers can be found [here.](http://law.ku.edu/cita/#working-papers)  These two hold particular relevance to participants in the Global Restoration Project: [Paper 1](http://law.ku.edu/sites/law.drupal.ku.edu/files/docs/centers/CITA_working_paper1_2010.pdf) and [Paper 5](http://law.ku.edu/sites/law.drupal.ku.edu/files/docs/centers/CITA-working-paper5-2016-caleb-hall.pdf) .
 
