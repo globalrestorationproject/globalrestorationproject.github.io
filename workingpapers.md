@@ -5,6 +5,7 @@ cover-img: /assets/img/tall_grass_grassland.jpg
 ---
 ##### Legal Regimes Governing Seeds
 Author: Sam Walter
+
 Our current agriculture system is unsustainable, but shifting toward a new system will require the development of new variety of plant species.  This paper examines the wide variety of legal regimes governing seeds and other plant genetic material and argues that international treaties are promoting the conservation pf plant genetic resoruces, but there is work to be done to improve the utility and coverage of seed bank collections. 
 Available [here.](https://globalrestorationproject.github.io/2020-12-28-legal-seed-regimes/)
 
@@ -12,6 +13,7 @@ Available [here.](https://globalrestorationproject.github.io/2020-12-28-legal-se
 
 ##### Inching Forward, Legislative Steps Toward Sustainable Agriculture in the United States
 Author: Mary Kate Workman
+
 Agricultural policy in the United States subsidizes conventional agriculture, rather than sustainable agriculture, to the detriment of our ecosystems and our climate.  The U.S. lags behind the international community in adopting sustainable agricultural practices.  This piece lists U.S. legislative efforts to adopt a more sustainable agriculture and argues that the current efforts are still largely anthropocentric and inadequate. 
 Available [here.](https://globalrestorationproject.github.io/2021-01-01-inching-forward/)
 
@@ -19,6 +21,7 @@ Available [here.](https://globalrestorationproject.github.io/2021-01-01-inching-
 
 ##### Smart Technology and the GRP
 Author: Adeline Tolle
+
 This paper defines smart technology, explores the concept, considers the precautionary principle, and argues that the smartest technology is the technology that is the least distant from natural systems.  
 Available [here.](https://globalrestorationproject.github.io/2020-12-22-smart-technology-grp/)
 
