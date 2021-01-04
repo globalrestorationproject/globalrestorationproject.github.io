@@ -5,7 +5,7 @@ subtitle: Commentary
 cover-img: /assets/img/green_gray_prairie_original.jpg
 tags: [commentary]
 ---
-### Commentary: Peter Turchin’s Cliodynamics & Dire Predictions
+### Commentary: Peter Turchin’s Cliodynamics and Dire Predictions
 
 **Author: Emily Otte**, KU School of Law
 
