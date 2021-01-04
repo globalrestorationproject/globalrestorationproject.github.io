@@ -30,6 +30,6 @@ the Rocky Mountains of Colorado, and the Columbia Gorge in Washington.
 
 ---
 
-**Emily Otte**
+#### Emily Otte
 ![](/assets/img/Otte_Headshot.jpg)
 Emily is a J.D. candidate at the University of Kansas School of Law.  Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  At the law school, she is involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review.  In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
