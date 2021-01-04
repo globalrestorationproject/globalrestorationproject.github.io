@@ -27,3 +27,9 @@ Mr. Head has been awarded Fulbright teaching and research fellowships to China, 
 and the United Kingdom and has undertaken special assignments in numerous locations for international financial institutions and development agencies.  
 Mr. Head is married to Lucia Orth, who is a lawyer, teacher, and novelist.  They split their time between the mixed grasslands of northeast Kansas, 
 the Rocky Mountains of Colorado, and the Columbia Gorge in Washington. 
+
+---
+
+**Emily Otte**
+![](/assets/img/Otte_Headshot.jpg)
+Emily is a J.D. candidate at the University of Kansas School of Law.  Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  At the law school, she is involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review.  In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
