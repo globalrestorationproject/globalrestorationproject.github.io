@@ -26,6 +26,7 @@ Still, the summaries that follow do provide a good start – a rich reservoir of
 
 #### Agrarian Writers and Thinkers
 **Wendell Berry (1934-)**
+
 Wendell Berry, *The Unsettling of America: Culture & Agriculture (Avon 197.*)
 * This book, written shortly after Earl Butz started his “fence row to fence row” mantra after the Soviet grain collapse, was meant to be a warning, not prophecy. He saw the commoditization of agriculture and culture starting with Ezra Taft Benson’s thinking and culminating in Earl Butz. However, this book actually reads as if it could have been written today. The problems of community loss, soil erosion, and poor public health have substantiated in the thirty six years since he wrote this piece. 
 * He starts, “ the cultural issues that I attempt to deal with have been wit hus since our history began, and, barring miracle or catastrophe, they will be with us for a long time to come.” Vii. He presents our ecological crisis as a crisis of character and agriculture, and our agricultural crisis as a crisis of culture.
@@ -50,6 +51,7 @@ Bill McKibben, *Wendell Berry*, in AMERICAN EARTH: ENVIRONMENTAL WRITING  SINCE 
 * After receiving his Masters at the University of Kentucky, he won a Wallace Stegner writing fellowship which took him to Stanford where he studied with influential writers Edward Abbey, Larry McMurtry, and Ken Kesey.
 
 **Henry David Thoreau (1817-1862)**
+
 Henry David Thoreau, *Journals*, in AMERICAN EARTH: ENVIRONMENTAL WRITING  SINCE THOREAU 2-8 (Bill McKibben ed., Library of America 2008).
 * “I find it good to remember the eternity behind me as well as the eternity before.” Saturday March 19, 1842. Thoreau was talking about respecting the Native Americans who populated New England before he was there, but it is still remarkable because it reflects a respect for place and temporal understanding that developed in most environmental writers a hundred years after he died.
 * “A man should feed his senses with the best that the land affords.” September 12, 1851
@@ -76,6 +78,7 @@ Donald Worster, NATURE’S ECONOMY: THE ROOTS OF ECOLOGY (Anchor Books 1979) (19
 * (Quoting from Thoreau’s journal): “How rich and lavish must be the system which can afford to let so many moons burn all the day as well as the night, though no man stands in need of their light! There is none of that kind of economy in Nature that husbands its stock, but she supplies inexhaustible means to the most frugal methods.” This quote shows that Thoreau was one of the first to realize that nature is not an efficient or well regulated economy. This was contrary to the popular notions of Linnaeus at the time who saw nature as well defined and apportioned evenly. P. 64-65
 
 **Donald Worster (1941-)**
+
 Worster once explained that “any dolt can love a mountain; it takes a subtle mind to love a prairie.” If that is the case then Worster may have one of the most subtle minds of any writer presented here. 
 
 
@@ -107,6 +110,7 @@ Interview with Donald Worster, Hall Distinguished Professor of American History,
 * Laws that impose factory owners should also create legal repercussions for farmers who ruin the land.
 
 **Wes Jackson (1936-)**
+
 Wes Jackson, NEW ROOTS FOR AGRICULTURE (Univ. of Neb. Press 1985) (1980).
 * This book criticizes industrial agriculture, but also serves as his was to explain the future of perennial polyculture grains. 
 * Wes majored in biology at Wesleyan University in Salina, earned a M.A. in botany from KU, and then a Ph.D. in genetics from North Carolina State. He taught at Wesleyan University from 1967 to 1971 and then Sacramento State. p. viii – ix. It was at North Carolina State where he met Ben W. Smith who turned Jackson to perennial polycultures and the research on them done by Russian geneticist N. I. Vavilov in Soviet Russia. P. 132. Apparently the Russians were successful in 1920 of increasing yield with perennial crossings, but were unable to duplicate results, and they refused to let western plant scientists visit the fields. Id. 
@@ -159,6 +163,7 @@ Wes Jackson, President of the Land Institute, Address at the Boulevard Brewery (
 * The “R” word – restraint, renewable, rationing
 
 **Ezra Taft Benson (1899-1994)**
+
 Edward Schapsmeier & Frederick Schapsmeier, EZRA TAFT BENSON AND THE POLITICS OF AGRICULTURE: THE EISENHOWER YEARS, 1953 – 1968 (The Interstate Printer & Publishers, Inc. 1975). 
 * Unquestioning belief in “more is better” on the part of Ezra and the authors. xv
 * Ezra’s great grandfather, and namesake, was also an Apostle in the LDS church. (Use this to talk about Ezra’s spiritual roots and as a counter to his humble beginnings narrative. It also explains how Ezra sees man as having dominion over all creation as that is a notion common in conservative LDS theology. p. 25; See also John Wright, Rocking Mountain Divide (Univ. of Tex. Press 1993) (Detailing Mormon reactions and attitudes towards land use).
@@ -173,11 +178,13 @@ Wesley McCune, EZRA TAFT BENSON: MAN WITH A MISSION (Public Affairs Press 1958).
 * Ezra fundamentally saw farming problems as problems of production, ignoring climate, market forces, bumper crops and crop failure, and credit. It flies in the face of reality. P.116-17
 
 **Earl Butz (1909-2008)**
+
 * Secretary of Agriculture for President Nixon
 * Butz used his “fence row to fence row” mantra, telling farms to either get big or get out, to drive prices down with even more commodity production. Wallinga et al., supra, at 6-8; Pollan, supra.
 * Being that he lived from 1909 to 2008, Earl Butz saw the transformation of the world’s agriculture first hand. He realizes that he way his family used to farm is gone, but shows so sense of longing or nostalgia. He does not lament the family farm operation becoming commercial. He says, “I don’t see much room for improvement,” when referring to people who criticize how much cheap food our food system makes. KING KORN (Balcony Releasing 2007). 
 
 **Frances Moore Lappeˊ (1944-)**
+
 Frances Moore Lappe' & Joseph Collins, FOOD FIRST (Houghton Mifflin Co. 1977).
 * She rejects traditional media portrayals of world hunger, that the US or developed nations must save the world, but instead takes a nuanced view of Garrett Hardin’s lifeboat ethics. Instead of shaming the US consumer, taking xenophobic stances against international aid, or thinking that do-gooderism promotes dependency, Lappeˊ says that hunger is a symptom of political instability and unequal resource allocation. P.5-7
 * “…food distribution only reflects the more fundamental issue of who controls and who participates in the production.” P.8
@@ -192,6 +199,7 @@ Frances Moore Lappe' & Joseph Collins, FOOD FIRST (Houghton Mifflin Co. 1977).
 * She accuses then-President Nixon and Early Butz of suppressing the Flanigan Report, and supporting the “trade traps” for the benefit of larger famers at the expense of consumers and family farms. P.219-31
 
 **Michael Pollan (1955-):**
+
 Bill McKibben, Michael Pollan, in AMERICAN EARTH: ENVIRONMENTAL WRITING  SINCE THOREAU 948 (Library of America 2008).
 * Michael Pollan is a Berkeley Journalism Professor who has written for the Atlantic, The New Yorker, Harper’s, and The New York Times Magazine among others. His English and journalism background was definitely predominant in his earlier writings. His 1992 book, Second Nature: A Gardener’s Education, was actually a challenge to the idea that there is something uniquely special about wildness. However, his writing has become more environmental and food centric that he has become a functional patron saint of the foodie movement. 
 
@@ -224,6 +232,7 @@ Michael Pollan, IN DEFENSE OF FOOD: AN EATER’S MANIFESTO (Penguin Books 2008).
 * This book explores more of the science of nutrition that The Omnivore’s Dilemma overlooked. Any information in this book is purely educational and is already covered in the 10.9c health section so it need not be discussed again.
 
 **Aldo Leopold (1887-1948):**
+
 Aldo Leopold, A SAND COUNTY ALMANAC (Ballantine Books 1966) (1949).
 * Published posthumously, this book became an inspiration to all of the thinkers in this section (with the exception of Earl Butz and Ezra Taft Benson).
 * The book begins by describing seasonal changes at Leopold’s shack where he lived every weekend for the last thirteen years of his life. The book then focuses on fragile ecological balances, man’s destructive intervention in natural forces, and then makes his plea for a “land ethic.”
@@ -273,6 +282,7 @@ Susan Flader, THINKING LIKE AT MOUNTAIN (Univ. of Mo. Press 1974).
 
 #### Environmental Protectors and Thinkers
 **John Muir (1838-1914)**
+
 Bill McKibben, *John Muir*, in AMERICAN EARTH: ENVIRONMENTAL WRITING SINCE THOREAU 84-85 (Bill McKibben ed., Library of America 2008).
 * He founded the Sierra Club, served as its president for twenty two years, and protected Yosemite so that it might become a national park.
 * After being born in Scotland, he brought to Wisconsin at age eleven. His abusive father made him memorize the bible, and so, in retaliation, Muir became a vagabond questioning anthropocentric notions of the universe. This became most notable in his ode to alligators in A Thousand-Mile Walk to the Gulf which became the basis for deep ecologists who followed him.
@@ -289,6 +299,7 @@ John Muir, *Hetch Hetchy Valley*, in AMERICAN EARTH: ENVIRONMENTAL WRITING SINCE
 * “These temple destroyers, devotees of ravaging commercialism, seem to have a perfect contempt for Nature, and instead of lifting their eyes to the God of the mountains, lift them to the Almighty Dollar. Dam Hetch Hetchy! As well as dam for water-tanks the people’s cathedrals and churches, for no holier temple has ever been consecrated by the heart of man.” P. 112
 
 **Rachel Carson (1907-1964):**
+
 Rachel Carson, SILENT SPRING (Houghton Mifflin 2002) (1962).
 * Being a trained marine biologist, Carson’s first three books were solely about oceanic life, but then her focus changed to pesticides in response to their indiscriminate use for twenty years prior to Silent Spring’s publication. This book was the impetus for the modern environmental movement as we know it, and without her many of the subsequent environmental advances would not have been possible. Gaylord Nelson would not have created Earth Day, Richard Nixon would not have created the EPA, DDT would not have been banned in the US, and writers like Bill McKibben and Al Gore would not have received their inspiration to advocate for climate change mitigation. The book received mixed reviews because of its political implications: Supreme Court Justice William O. Douglas praised the book while Ezra Taft Benson, writing to President Eisenhower, derided it and concluded that, since Carson was not married, she must have been a Communist. Carson received numerous awards for her book both while she was alive and posthusmously. Unfortunately a battle with cancer took her life two years after Spring’s publication so she did not get see the full ramifications of her writing.
 * Her work was so influential that in 2009 when the LMU Munich and Deutsches Museum created a nonprofit to facilitate international environmental studies, the program, despite the number of European environmentalists and naturalists, was named the Rachel Carson Center. 
@@ -305,6 +316,7 @@ Rachel Carson, SILENT SPRING (Houghton Mifflin 2002) (1962).
 * “The ‘control of nature’ is a phrase conceived in arrogance, born of the Neanderthal age of biology and philosophy, when it was supposed that nature exists for the convenience of man. The concepts and practices of applied entomology for the most part date from that Stone Age of science. It is our alarming misfortune that so primitive a science has armed itself with the most modern and terrible weapons, and that in turning them against the insects it has also turned them against the earth.” P. 297
 
 **David Montgomery:**
+
 University of Washington, Earth & Space Sciences, *Dave Montgomery*, 2013, available at http://earthweb.ess.washington.edu/dwp/people/profile.php?name=montgomery--david. 
 * Currently teaching at the University of Washington, Montgomery may be the youngest of our prominent environmental thinkers. He studies topographical change and geomorphological influences on ecological systems and human societies, which has seemingly coalesced into one tome: Dirt. Through Dirt he breaks the specialized disciplinary boundaries that would prevent a historian from looking at science or a scientist from looking at political factors, and synthesizes a story of our 10,000 year interaction with the lithosphere. However, it is odd even not ironic that Montgomery’s Dirt has been translated into five different languages, exemplifying the amount of praise it has received, while Jared Diamond who argued that humans were dooming the planet with environmental degradation, including soil depletion, three years earlier only to receive a professional rebuke from the professorial community. See QUESTING COLLAPSE: HUMAN RESILIANCE, ECOLOGICAL VULNERABILITY, AND THE AFTERMATH OF EMPIRE (Patricia McAnay & Norman Yoffee eds., Cambridge Univ. Press 2010).
 
@@ -329,6 +341,7 @@ David Montgomery, DIRT: THE EROSION OF CIVILIZATIONS (Univ. of Cal. Press 2007).
 * “…if we are to feed the developing world, we must abandon the intuitive, but naïve, idea that producing cheap food will eliminate hunger. We’ve already made food cheap and there are still plenty of hungry people on the planet…civilization’s survival depends on treating soil as an investment, as a valuable inheritance rather a commodity – as something other than dirt.” P. 246
 
 **Al Gore (1948-):**
+
 Al Gore, *Foreword*, in AMERICAN EARTH: ENVIRONMENTAL WRITING SINCE THOREAU xvii-xix (Bill McKibben ed., Library of America 2008).
 * It was his mother reading Silent Spring to him that spurred Al Gore’s interest in environmental matters. His privilege of growing up on farmland in the Cumberland riverbed, and his father’s political history, enabled him to become an avid environmental politician. Unfortunately that has allowed conservative mouthpieces to target him as the representative of all environmentalism, and therefore any mistakes or hypocritical errors he makes somehow reflects upon the environmental community overall, but he has still demonstrated himself to be a valid inheritor of Carson’s words. Also, apparently Bill McKibben’s End of Nature inspired Gore’s interest in climate change.
 
@@ -378,6 +391,7 @@ Bill McKibben, ENOUGH: STAYING HUMAN IN AN ENGINEERED AGE (Henry Holt & Co. 2003
 * Whereas *The End of Nature* told us that nature as we once knew it has died, Enough warns us to not lose our humanity to genetic engineering and nanotechnology. Throughout the book he talks about specific dangers of being able to decide the genes of children (The rich will have even more advantageous over those who cannot pay for that technology) and the frivolities of seats that conform to body shape via nanotechnology. However, the book can basically be summed as an appeal against technological optimism, and an argument that we must be able to say “enough.” Technological marvels of today do not increase our standard of living so much as give us new wasteful toys. (My example would be that the life before the Ipad was not worse than life after, and any increase in technological now is an exercise in frivolous ostentation. Does it really matter if you can get Facebook on your phone, while on the toilet, in two or the faster one second?) Many of the dangers McKibben warns about in this book have not happened when he envisioned them, and many of his philosophical points are the same as in End of Nature, so no quotes need not be included. However, the message that we need to draw a line is still pertinent to the smart new agrarian ethic.
 
 **Edward Abbey (1927-1989):**
+
 Edward Abbey, DESERT SOLITAIRE: A SEASON IN THE WILDERNESS (Ballentine Books 1971) (1968).
 * Unlike most environmentalists, who usually end up favoring strong centralized governments that protect the environment and perform other social functions, Edward Abbey writes from a libertarian perspective. However, he is not a fan of free markets, but rather free people and free wilderness. He avoids labels, preferring to be a called “ranger” if a label is needed as opposed to “liberal,” “hippie,” or “ecologist.” Also unlike the other authors presented, Edward Abbey often incorporates dry wit and sarcastic humor into his prose making him a complete joy to read.
 * Desert Solitaire is a collection of essays and musings during the two summers Abbey worked at what would become Arches National Park. In the book he decries industrial tourism, overpopulating the West, and constructing roads in wildlife areas so as to make easier access for people who should be walking, according to Abbey. From being in Arches last spring I can personally attest that the road he feared was built, you can now tour a lot of the park while sitting in the luxury of an air conditioned vehicle, and even toilets have been set up throughout the park. The publication of this book propelled him into the life of a wildlife activist and accomplished author.
