@@ -31,6 +31,7 @@ Available [here.](https://globalrestorationproject.github.io/2020-12-22-smart-te
 Author: Caleb Hall
 
 This literature survey compiles works from key writers on "agrarian values" and environmental protection and pulls the most important elements of "agrarian advocacy", elements relevant to "natural systems agriculture" or "agroecological husbandry".  Though by no means comprehensive, the survey provides a rich reservoir of information about "agrarian" wroting and advocacy.
+Available [here.](https://globalrestorationproject.github.io/2020-12-26-literature-survey/)
 
 ---
 
