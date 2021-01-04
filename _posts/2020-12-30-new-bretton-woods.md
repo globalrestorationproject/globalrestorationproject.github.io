@@ -7,6 +7,7 @@ tags: [commentary]
 ---
 
 #### Calls for a New Bretton Woods for Internet Governance
+##### Channeling the Energy for International Institutions
 
 **Author: John W. Head**, KU School of Law
 
