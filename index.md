@@ -9,13 +9,13 @@ cover-img: /assets/img/homepage.jpg
 
 ![test](/assets/img/home_page_body.png)
 
-![test](/assets/img/RE.jpg)
+![test](/assets/img/ResponsibleEnergy.png)
 
-![test](/assets/img/ST.jpg)
+![test](/assets/img/SmartTechnology.png)
 
-![test](/assets/img/ORA.jpg)
+![test](/assets/img/OrganicAndResilientAgroecology.png)
 
-![test](/assets/img/TION.jpg)
+![test](/assets/img/TION.png)
 
 
 Cover image: lovelyday12/shutterstock.com
