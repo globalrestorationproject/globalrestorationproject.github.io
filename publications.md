@@ -4,7 +4,7 @@ title: Publications
 cover-img: /assets/img/aerial_green_field.jpg
 ---
 
-**Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.**  
+**Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.  We welcome notifications about other publications written by, or of interest to, others involved in RESTORATION-related issues.**  
 
 ---
 
