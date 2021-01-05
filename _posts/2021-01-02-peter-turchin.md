@@ -11,7 +11,7 @@ tags: [commentary]
 
 [The Next Decade Could Be Even Worse, by Graeme Wood for The Atlantic](https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/)
 
-In *The Atlantic*, Graeme Wood interviewed Peter Turchin, a scientist who has used thousands of years’ worth of data to build a model that uses history’s general 
+In *The Atlantic* in November 2020, Graeme Wood interviewed Peter Turchin, a scientist who has used thousands of years’ worth of data to build a model that uses history’s general 
 rules to predict the future.  As Wood describes, Turchin’s work has taken particular relevance in a tumultuous 2020 because “[Turchin] has been warning for a decade that 
 a few key social and political trends portend an ‘age of discord,’ civil unrest and carnage worse than most Americans have experienced.”  In particular, Turchin says that a
 bloated elite class, declining living standards for the general population, and government overspending are fundamental problems and, in 2010, Turchin predicted that these 
