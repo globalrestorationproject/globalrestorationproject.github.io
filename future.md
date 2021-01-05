@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Future We;re Building
+title: The Future We're Building
 subtitle: And How You Can Participate
 cover-img: /assets/img/prairie_grasses_twilight.jpg
 ---
