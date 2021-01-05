@@ -10,23 +10,9 @@ tags: [working_paper]
 ### Inching Forward: Legislative Steps Toward Sustainable Agriculture in the United States
 **Author:  Mary Kate Workman**, KU School of Law
 
-Conventional agriculture in the United States is harmful for the environment in that the primary crops produced are annual monocultures, which are planted and harvested in an extractive manner. Further, much of today’s conventional agriculture relies on pesticides for crops and antibiotics for livestock, resulting in chemical harm throughout entire ecosystems. While Congress has recognized the US is in need of more sustainable agriculture, the legislative steps taken may be too little too late. 
+Conventional agriculture in the United States is harmful for the environment in that the primary crops produced are annual monocultures, which are planted and harvested in an extractive manner.  Further, much of today’s conventional agriculture relies on pesticides for crops and antibiotics for livestock, resulting in chemical harm throughout entire ecosystems.  While Congress has recognized the United States is in need of more sustainable agriculture, the legislative steps taken may be too little, too late.  The following table addresses many of the legislative initiatives Congress has taken in the past forty years to promote and encourage sustainable agriculture in the U.S.  However, following the table is a discussion illustrating why these programs are likely an insufficient means for a mounting environmental crisis.    
 
-Although US agricultural policy as set by Congress has not entirely overlooked “sustainable agriculture” as worthy of support, these steps are likely insufficient to counter and correct the damage that has already been done.  The above table illustrates some of the congressional action to foster sustainable agriculture through grants and programs encouraging research and development, conservation, and a transition to more sustainable farming. However, much of the funding for these programs varies significantly from one year to the next, signaling instability and a lack of congressional commitment to sustainable agriculture. 
-
-Further, what Congress calls “sustainable agriculture” has received dramatically less support in the United States than has more conventional agriculture, which is heavily subsidized. For example, when looking to US farm subsidy information, farmers have received $396.9 billion between 1995–2019. However, of that money, only $50 billion went towards conservation programs. The lion’s share of the remainder, about 40%, went to subsidize corn, soybeans, wheat, cotton, and rice—the annual monocultures that have already done significant damage to the Earth’s soil.  With such large subsidies, farmers are discouraged from innovating, cutting costs, diversifying their land use, or taking other actions to transition to more sustainable farming. 
-
-When looking Internationally, the US is well behind other countries in adopting agroecological farming. According to the Food Sustainability Index, as of 2018 the top five countries with the most sustainable agriculture were Austria, Denmark, Israel, Poland, and Germany. The US came in thirty-third place, in between Uganda (32) and Mozambique (34).  Of the G20, France, Japan, and Canada scored the highest,  and the US would do well to collaborate with these countries to better understand how they have encouraged more sustainable agricultural practices while still maintaining a stable economy and producing enough food for their large populations.  
-
-Moreover, the kind of approach/action that passes generally as “sustainable agriculture” in US legislation is in fact almost entirely inadequate and misconceived. The government defines sustainable agriculture as: “An integrated system of plant and animal production practices having a site-specific application that will over the long-term:
-* Satisfy human food and fiber needs.
-* Enhance environmental quality and the natural resource base upon which the agriculture economy depends.
-* Make the most efficient use of nonrenewable resources and on-farm resources and integrate, where appropriate, natural biological cycles and controls.
-* Sustain the economic viability of farm operations.
-* Enhance the quality of life for farmers and society as a whole.”   
-
-In sum: If the goal is (as it should be) to make a clean break with conventional extractive agriculture based on annual-monoculture grain-and-legume production, then US agricultural policy as reflected in the legislative initiatives summarized above falls short; such a ‘clean-break’ type of approach—that is, the adoption of a natural-systems agriculture mimicking the natural systems of grassland ecosystems that modern agriculture has destroyed—is completely missing from legislatively-mandated funding in this country. Rather, the definition of sustainable agriculture is still largely anthropocentric, with a focus on the economy and using natural biological cycles “where appropriate”. Until the definition of sustainable agriculture aligns with truly eco-centric values, conventional agriculture will continue to dominate in the United States.  
-
+Table 1: Examples of Sustainable Agriculture Legislation/Grants in the US (not comprehensive)
 
 ### **Some Examples of Sustainable Agriculture Legislation/Grants in the US**
 
@@ -84,6 +70,27 @@ In sum: If the goal is (as it should be) to make a clean break with conventional
 
 **[Farmer Driven Conservation Outcomes Act](https://www.congress.gov/bill/116th-congress/house-bill/6182?q=%7B%22search%22%3A%5B%22h+res+446%22%5D%7D&s=1&r=4)** 
 (H.R. 6182, Introduced Mar. 2020): This bill would strengthen federal conservation programs by authorizing and providing funding for the measurement, evaluation, and reporting of USDA’s farm bill conservation program outcomes.  
+
+Although U.S. agricultural policy as set by Congress has not entirely overlooked “sustainable agriculture” as worthy of support, these steps are likely insufficient to counter and correct the damage that has already been done.  The above table illustrates some of the congressional action to foster sustainable agriculture through grants and programs encouraging research and development, conservation, and a transition to more sustainable farming.  However, much of the funding for these programs varies significantly from one year to the next, signaling instability and a lack of congressional commitment to sustainable agriculture. 
+
+Further, what Congress calls “sustainable agriculture” has received dramatically less support in the United States than has more conventional agriculture, which is heavily subsidized.  For example, when looking to U.S. farm subsidy information, farmers have received $396.9 billion between 1995–2019.  However, of that money, only $50 billion went towards conservation programs.  The lion’s share of the remainder, about 40%, went to subsidize corn, soybeans, wheat, cotton, and rice—annual monocultures that have already done significant damage to the Earth’s soil.[^1]   With such large subsidies, farmers are discouraged from innovating, cutting costs, diversifying their land use, or taking other actions to transition to more sustainable farming. 
+
+When looking Internationally, the U.S. is well behind other countries in adopting agroecological farming.  According to the Food Sustainability Index, as of 2018 the top five countries with the most sustainable agriculture were Austria, Denmark, Israel, Poland, and Germany.  The U.S. came in thirty-third place, in between Uganda (32) and Mozambique (34)[^2].  Of the G20, France, Japan, and Canada scored the highest[^3],  and the U.S. would do well to collaborate with these countries to better understand how they have encouraged more sustainable agricultural practices while still maintaining a stable economy and producing enough food for their large populations.  
+
+Moreover, the kind of approach/action that passes generally as “sustainable agriculture” in U.S. legislation is in fact almost entirely inadequate and misconceived.  The government defines sustainable agriculture as: “An integrated system of plant and animal production practices having a site-specific application that will over the long-term:
+*Satisfy human food and fiber needs.
+*Enhance environmental quality and the natural resource base upon which the agriculture economy depends.
+*Make the most efficient use of nonrenewable resources and on-farm resources and integrate, where appropriate, natural biological cycles and controls.
+*Sustain the economic viability of farm operations.
+*Enhance the quality of life for farmers and society as a whole.”[^4]   
+
+In sum: If the goal is (as it should be) to make a clean break with conventional extractive agriculture based on annual-monoculture grain-and-legume production, then U.S. agricultural policy as reflected in the legislative initiatives summarized above falls short; such a “clean break” type of approach—that is, the adoption of a natural-systems agriculture mimicking the natural systems of grassland ecosystems that modern agriculture has destroyed—is completely missing from legislatively-mandated funding in this country.  Rather, the definition of sustainable agriculture is still largely anthropocentric, with a focus on the economy and using natural biological cycles “where appropriate.”  Until the definition of sustainable agriculture aligns with truly eco-centric values, conventional agriculture will continue to dominate in the United States.  
+
+[^1]: For more information, including an interactive map of farm subsidies by state, see Environmental Working Group, EWG Farm Subsidy Database, EWG (Oct. 31, 2019), https://farm.ewg.org/. 
+[^2]: *Food Sustainability Index*, BARILLA CTR. FOOD & NUTRITION (Nov. 2018), https://foodsustainability.eiu.com/country-ranking/. 
+[^3]: Emily Payne, *Which Country is the Most Sustainable?*, FOODTANK (last visited July 16, 2020), https://foodtank.com/news/2017/08/bcfn-food-sustainability-index/. 
+[^4]: 7 U.S.C. § 3103. 
+
 
 Cover image: shutterstock/Arthon.Meekodong
 
