@@ -78,11 +78,11 @@ Further, what Congress calls “sustainable agriculture” has received dramatic
 When looking Internationally, the U.S. is well behind other countries in adopting agroecological farming.  According to the Food Sustainability Index, as of 2018 the top five countries with the most sustainable agriculture were Austria, Denmark, Israel, Poland, and Germany.  The U.S. came in thirty-third place, in between Uganda (32) and Mozambique (34)[^2].  Of the G20, France, Japan, and Canada scored the highest[^3],  and the U.S. would do well to collaborate with these countries to better understand how they have encouraged more sustainable agricultural practices while still maintaining a stable economy and producing enough food for their large populations.  
 
 Moreover, the kind of approach/action that passes generally as “sustainable agriculture” in U.S. legislation is in fact almost entirely inadequate and misconceived.  The government defines sustainable agriculture as: “An integrated system of plant and animal production practices having a site-specific application that will over the long-term:
-*Satisfy human food and fiber needs.
-*Enhance environmental quality and the natural resource base upon which the agriculture economy depends.
-*Make the most efficient use of nonrenewable resources and on-farm resources and integrate, where appropriate, natural biological cycles and controls.
-*Sustain the economic viability of farm operations.
-*Enhance the quality of life for farmers and society as a whole.”[^4]   
+* Satisfy human food and fiber needs.
+* Enhance environmental quality and the natural resource base upon which the agriculture economy depends.
+* Make the most efficient use of nonrenewable resources and on-farm resources and integrate, where appropriate, natural biological cycles and controls.
+* Sustain the economic viability of farm operations.
+* Enhance the quality of life for farmers and society as a whole.”[^4]   
 
 In sum: If the goal is (as it should be) to make a clean break with conventional extractive agriculture based on annual-monoculture grain-and-legume production, then U.S. agricultural policy as reflected in the legislative initiatives summarized above falls short; such a “clean break” type of approach—that is, the adoption of a natural-systems agriculture mimicking the natural systems of grassland ecosystems that modern agriculture has destroyed—is completely missing from legislatively-mandated funding in this country.  Rather, the definition of sustainable agriculture is still largely anthropocentric, with a focus on the economy and using natural biological cycles “where appropriate.”  Until the definition of sustainable agriculture aligns with truly eco-centric values, conventional agriculture will continue to dominate in the United States.  
 
