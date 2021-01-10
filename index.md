@@ -13,7 +13,7 @@ cover-img: /assets/img/homepage.jpg
 
 ![test](/assets/img/SmartTechnology.png)
 
-![test](/assets/img/OrganicAndResilientAgroecology.png)
+![test](/assets/img/OrganicAndRegenerativeAgroecology.png)
 
 ![test](/assets/img/TION.png)
 
