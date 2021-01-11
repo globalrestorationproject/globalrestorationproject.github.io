@@ -35,6 +35,14 @@ Available [here.](https://globalrestorationproject.github.io/2020-12-26-literatu
 
 ---
 
+##### What is "Organic Regenerative Agroecology" in the Context of the Global RESTORATION Project?
+Author: John W. Head
+
+Providing a definition of "organic regenerative agroecology" based on a panel presentation from the 2021 Oxford Real Food Conference. 
+Available [here.](https://globalrestorationproject.github.io/2021-01-10-organic-restorative-agroecology/)
+
+---
+
 ##### CITA Working Papers
 For several years, a Center for International Trade and Agriculture operated out of the University of Kansas Law School.  Some of the Working Papers that were published (online) by the CITA have direct relevance to themes that are central to the Global Restoration Project.  For easy access to readers and researchers, five such Working Papers can be found [here.](http://law.ku.edu/cita/#working-papers)  These two hold particular relevance to participants in the Global Restoration Project: [Paper 1](http://law.ku.edu/sites/law.drupal.ku.edu/files/docs/centers/CITA_working_paper1_2010.pdf) and [Paper 5](http://law.ku.edu/sites/law.drupal.ku.edu/files/docs/centers/CITA-working-paper5-2016-caleb-hall.pdf) .
 
