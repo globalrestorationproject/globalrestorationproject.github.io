@@ -5,7 +5,7 @@ subtitle: Welcome
 cover-img: /assets/img/homepage.jpg
 ---
 
-#### Welcome to our newly-launched website!  Although our Global Restoration Project was started in 2020, we are just now “going live” with this website.  We appreciate your patience as we continue building the website, and we welcome any suggestions and questions you might have.  Suggestions can be directed to johnhead@globalrestorationproject.org.
+**Welcome to our newly-launched website!  Although our Global Restoration Project was started in 2020, we are just now “going live” with this website.  We appreciate your patience as we continue building the website, and we welcome any suggestions and questions you might have.  Suggestions can be directed to johnhead@globalrestorationproject.org.**
 
 #### View our latest work, *The Paris Climate Accord and Biden's Inevitable Struggle in 2021*, [here.](https://globalrestorationproject.github.io/2021-01-04-paris-accords-2021/)
 
