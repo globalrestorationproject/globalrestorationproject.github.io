@@ -6,6 +6,7 @@ cover-img: /assets/img/green_gray_prairie_original.jpg
 
 #### John W. Head
 johnhead@globalrestorationproject.org
+
 ![](/assets/img/head_headshot.png)
 
 John W. Head holds the Robert W. Wagstaff Distinguished Professorship at the University of Kansas, where he concentrates on international and comparative law.  
