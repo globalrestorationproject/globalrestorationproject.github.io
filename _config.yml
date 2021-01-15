@@ -23,7 +23,7 @@ navbar-links:
     - Personnel: "personnel"
     - Partners: "partners"
   Resources: 
-    - Organization Database: "linkages"
+    - Org Database: "linkages"
     - Publications: "publications"
     - Working Papers: "workingpapers"
   Blog: blog
