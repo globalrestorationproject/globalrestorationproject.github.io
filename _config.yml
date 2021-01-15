@@ -97,7 +97,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "global, restoration, project"
+keywords: "global restoration project"
 
 paginate_path: "/blog/page:num/"
 
