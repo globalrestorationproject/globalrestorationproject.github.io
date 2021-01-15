@@ -17,7 +17,7 @@ cover-img: /assets/img/homepage.jpg
 
 ![test](/assets/img/OrganicAndRegenerativeAgroecology.png)
 
-![test](/assets/img/TION.png)
+![test](/assets/img/TION_crop_resized.jpg)
 
 
 Cover image: lovelyday12/shutterstock.com
