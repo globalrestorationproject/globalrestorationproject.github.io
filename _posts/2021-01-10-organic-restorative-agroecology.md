@@ -3,7 +3,7 @@ layout: post
 title: What is "Organic Regenerative Agroecology" in the Context of the Global RESTORATION Project? 
 subtitle: Working Paper
 cover-img: /assets/img/plant_growing_bokeh.jpg
-thumbnail-img: thumbnail-img: /assets/img/thumbnails/plant_growing_bokeh_thumbnail.jpg
+thumbnail-img: /assets/img/thumbnails/plant_growing_bokeh_thumbnail.jpg
 tags: [working_paper]
 ---
 #### What is “Organic Regenerative Agroecology” in the Context of the Global RESTORATION Project? 
