@@ -3,6 +3,7 @@ layout: post
 title: Smart Technology and the GRP
 subtitle: Working Paper
 cover-img: /assets/img/smart_technology.jpg
+thumbnail-img: /assets/img/thumbnails/smart_technology_thumbnail.jpg
 tags: [working_paper]
 ---
 
