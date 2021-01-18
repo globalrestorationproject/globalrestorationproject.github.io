@@ -3,6 +3,7 @@ layout: post
 title: Vogue on Regenerative Agriculture
 subtitle: Commentary
 cover-img: /assets/img/stubble_sunset.jpg
+thumbnail-img: /assets/img/thumbnails/stubble_sunset_thumbnail.jpg
 tags: [commentary]
 ---
 
