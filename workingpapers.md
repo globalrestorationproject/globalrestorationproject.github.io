@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Working Papers 
-cover-img: /assets/img/tall_grass_grassland.jpg
+cover-img: /assets/img/tall_grass_grassland_resized.jpg
 ---
 ##### [Legal Regimes Governing Seeds](https://globalrestorationproject.github.io/2020-12-28-legal-seed-regimes/)
 Author: Sam Walter
