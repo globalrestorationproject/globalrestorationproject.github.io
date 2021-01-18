@@ -3,6 +3,7 @@ layout: post
 title: Influential Writers on Agrarian Values and Environmental Protection
 subtitle: Working Paper
 cover-img: /assets/img/prairie_grass_flowers_sunset.jpg
+thumbnail-img: /assets/img/thumbnails/prairie_grass_flowers_sunset_thumbnail.jpg
 tags: [working_paper]
 ---
 
