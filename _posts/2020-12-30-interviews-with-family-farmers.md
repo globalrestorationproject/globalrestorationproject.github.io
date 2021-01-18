@@ -3,6 +3,7 @@ layout: post
 title: Interviews with (My) Family Farmers, Lessons Learned From a Very, Very Small Dataset
 subtitle: Invited Essay
 cover-img: /assets/img/Pasture.jpg
+thumbnail-img: /assets/img/thumbnails/Pasture_thumbnail.jpg
 tags: [invited_essay]
 ---
 ### Interviews with (My) Family Farmers
