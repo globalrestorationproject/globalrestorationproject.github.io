@@ -71,6 +71,6 @@ cover-img: /assets/img/tree_earth.jpg
 | [Terra Genesis International](http://www.terra-genesis.com/) | Founded in 2010 in Driggs, Idaho, this NGO has global reach as a regenerative design consultancy NGO. It includes engineers, permaculture design experts, agroecologists, foresters, carbon scientists, and financial analysts that help large-scale agriculture businesses redesign their supply chains to be more sustainable. |
 |[The Timbanktu Collective](http://www.timbaktu.org/) | Founded in 1996 in Bangalore, India, this organization works in rural India to restore degraded ecosystems in rural Indian communities. They work to restore wastelands by planting indigenous trees, reviving traditional water-harvesting structures, and restoring soil health through in organic farming. |
 
-
+---
 
 Photo: Johan Swanepoel/shutterstock.com
