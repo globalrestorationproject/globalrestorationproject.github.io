@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Global Restoration Project
-subtitle: Welcome 
 cover-img: /assets/img/homepage.jpg
 ---
 
