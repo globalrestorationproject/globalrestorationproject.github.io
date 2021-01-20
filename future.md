@@ -27,6 +27,8 @@ We have clear ideas about the general contours of the future we believe is both 
 - **Green Technology.** Post-carbon, small-footprint, non-extractive, high-diversity technology developed with an overriding mandate of ecological protection.  However, we acknowledge that technology alone cannot solve a crisis that stems from humanity’s exploitative attitude towards our living planet.
 - **Collective Effort.** Global crises require global conscience cooperation.  International regimes, guided by eco-centric principles, provide the best means for achieving the extensive transformation necessary to solve the agriculture and climate crises. 
 
+---
+
 [^1]: See this, and other GRP publications, [here.](https://globalrestorationproject.github.io/publications/)
 	
 
