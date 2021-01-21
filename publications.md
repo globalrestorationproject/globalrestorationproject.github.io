@@ -4,7 +4,13 @@ title: Publications
 cover-img: /assets/img/aerial_green_field.jpg
 ---
 
-**Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.  We welcome notifications about other publications written by, or of interest to, others involved in RESTORATION-related issues.**  
+Although the Global Restoration Project does not itself publish books, we wish to highlight several books that have a close connection to the aims and operations of the Global Restoration Project.  We welcome notifications about other publications written by, or of interest to, others involved in RESTORATION-related issues.
+
+All Publications (more details on each below):
+* Global Legal Regimes to Protect the World's Grasslands by John W. Head
+* International Law and Agroecological Husbandry by John W. Head
+* A Global Corporate Trust for Agroecological Integrity by John W. Head
+* Deep Agroecology and the Homeric Epics by John W. Head  
 
 ---
 
