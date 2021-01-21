@@ -5,7 +5,7 @@ subtitle:  Eco-centric reformation and innovation
 cover-img: /assets/img/golden_grasses.jpg
 ---
 
-**The Global Restoration Projects believes that radical transformation of humanity's relationship with nature -- and, accordingly, a radical transformation of modern agriculture -- is not only possible, but necessary, to save and restore a living planet Earth.  We believe in an eco-centric approach to solving the climate crisis and the agricultural crisis that utilizes Responsible Energy, Smart Technology, and an Organic and Regenerative Agroecology to develop a new natural-systems form of agroecology that will reverse  environmental degradation.**   
+**The Global Restoration Project believes that radical transformation of humanity's relationship with nature -- and, accordingly, a radical transformation of modern agriculture -- is not only possible, but necessary, to save and restore a living planet Earth.  We believe in an eco-centric approach to solving the climate crisis and the agricultural crisis that utilizes Responsible Energy, Smart Technology, and an Organic and Regenerative Agroecology to develop a new natural-systems form of agroecology that will reverse  environmental degradation.**   
 
 With this commitment, we seek answers to a fundamental question: how can humans today reorder their lives in ways that will preserve the planet we share with other species?
 
