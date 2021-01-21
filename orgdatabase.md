@@ -3,7 +3,7 @@ layout: page
 title: Organization Database
 cover-img: /assets/img/tree_earth.jpg
 ---
-**The Global Restoration Project has compiled the below database of organizations that have goals and purposes adjacent to those of the Global Restoration Project.  We are not endorsed by any of these organizations, nor are we formally affiliated.  Rather, this database is intented to orient the Global Restoration Project in a wider landscape of organizations and worldviews that reflect our own values.  Additionally, this database is a resource to other persons and organizations interested in transforming agriculture.**
+**The Global Restoration Project has compiled the below database of organizations that have goals and purposes adjacent to those of the Global Restoration Project.  We are not endorsed by any of these organizations, nor are we formally affiliated.  Rather, this database is intented to orient the Global Restoration Project in a wider landscape of organizations and worldviews that reflect our own values.  In particular, this database is a resource to other persons and organizations interested in transforming agriculture.**
 
 
 | Organization | Description |
