@@ -6,7 +6,7 @@ cover-img: /assets/img/KS_sunset_resized.jpg
 ---
 
 
-The establishment of the Global Restoration Project in 2020 - and in particular its initial location in Kansas - reflects several sources of inspiration.  Here are some of them, organized in terms of the four key elements of the GRP -- that is, Responsible Energy, Smart Technology, Organic Regenerative Agroecology, and Territorially Integrated Operational Networks: 
+The establishment of the Global RESTORATION Project in 2020 - and in particular its initial location in Kansas - reflects several sources of inspiration.  Here are some of them, organized in terms of the four key elements of the GRP -- that is, Responsible Energy, Smart Technology, Organic Regenerative Agroecology, and Territorially Integrated Operational Networks: 
 
 ![RE](/assets/img/icons/RE_bulb.jpg) 
 #### Responsible Energy 
