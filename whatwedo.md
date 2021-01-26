@@ -1,14 +1,14 @@
 ---
 layout: page
 title: What We Do
-subtitle: Global issues and global solutions
+subtitle: Global Issues and Global Solutions
 cover-img: /assets/img/Terraced_Rice_Field_Left.jpg
 ---
-* **Collaborative Research.**  Just as the Global Restoration Project encompasses a cluster of distinct areas of expertise, many of our members combine backgrounds in law and policy relating to energy, ecology, intellectual property, agriculture, international relations, and more.  But we do not concentrate solely on law and policy:  our members also contribute expertise in geology, technology, climate change, crop science, and earth sciences generally – even art and philosophy.  With this array of experience and interest, we collaborate in our research in order to achieve solutions that no single discipline can hope to offer.
+* **Collaborative Research.**  Just as the Global RESTORATION Project encompasses a cluster of distinct areas of expertise, many of our members combine backgrounds in law and policy relating to energy, ecology, intellectual property, agriculture, international relations, and more.  But we do not concentrate solely on law and policy:  our members also contribute expertise in geology, technology, climate change, crop science, and earth sciences generally – even art and philosophy.  With this array of experience and interest, we collaborate in our research in order to achieve solutions that no single discipline can hope to offer.
 
 * **Education & Advocacy.**  Driven by a sense of high urgency, we will plan and facilitate programs for training and education to audiences whose informed engagement in political and social arenas will be crucial to mustering the collective political action necessary to address the problems – primarily ecological in character – that stands at the center of the Global Restoration Project's agenda.  And we engage in advocacy by preparing proposals, white papers, and publication summaries for broad distribution and understanding.
 
-* **Conferences.**  Consistent with both of the two above points – collaborative research and education & advocacy – we organize, host, and participate in conferences at which those challenges central to the Global Restoration Project's aims can be illuminated and discussed ... with a particular keenness on having publications emerge from such conferences in order to push the discourse forward on as many fronts as possible – including at the international level.
+* **Conferences.**  Consistent with both of the two above points – collaborative research and education & advocacy – we organize, host, and participate in conferences at which those challenges central to the Global RESTORATION Project's aims can be illuminated and discussed ... with a particular keenness on having publications emerge from such conferences in order to push the discourse forward on as many fronts as possible – including at the international level.
 
 * **Clearinghouse Functions.**  We listen to and watch for the important work of others – writers, scholars, activists, bloggers, policy-makers, and others, from the private sector, the academic community, the NGO world, and government agencies – in order to provide linkages and updates for the benefit of all who share our vision and seek solutions to ecological degradation. 
 
