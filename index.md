@@ -8,16 +8,17 @@ cover-img: /assets/img/homepage.jpg
 
 #### View our latest work, *The Paris Climate Accord and Biden's Inevitable Struggle in 2021*, [here.](https://globalrestorationproject.github.io/2021-01-04-paris-accords-2021/)
 
-![test](/assets/img/home_page_body.jpg)
+![test](/assets/img/home_page_body_color.jpg)
 
-![test](/assets/img/ResponsibleEnergy.png)
+![test](/assets/img/RE_color.jpg)
 
-![test](/assets/img/SmartTechnology.png)
+![test](/assets/img/ST_color.jpg)
 
-![test](/assets/img/OrganicAndRegenerativeAgroecology.png)
+![test](/assets/img/ORA_color.jpg)
 
-![test](/assets/img/TION.jpg)
+![test](/assets/img/TION_color.jpg)
 
+---
 
 Cover image: lovelyday12/shutterstock.com
 
