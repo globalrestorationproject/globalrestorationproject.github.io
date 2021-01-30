@@ -7,7 +7,7 @@ cover-img: /assets/img/green_gray_prairie_original.jpg
 #### John W. Head
 ![](/assets/img/head_headshot.png)
 
-johnhead@globalrestorationproject.org
+JohnHead@GlobalRestorationProject.org
 
 John W. Head holds the Robert W. Wagstaff Distinguished Professorship at the University of Kansas, where he concentrates on international and comparative law.  
 He earned his undergraduate degree from the University of Missouri at Columbia, an English law degree from Oxford University (1977), and his US law degree from the
