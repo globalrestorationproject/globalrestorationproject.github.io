@@ -5,9 +5,9 @@ subtitle: And why in Kansas
 cover-img: /assets/img/KS_sunset_resized.jpg
 ---
 
-The establishment of the Global Restoration Project in 2020 arose from a combination of alarm and inspiration.  **Alarm** because far too little attention is given to a cluster of integrated environmental and legal issues facing our species today.  Yes, many experts advocate change in energy policy at a global scale, especially to wean humans off of fossil carbon.  And yes, many experts study how to reform agriculture to reduce its ecological impact.  For us, though, a great many of those proposals are narrow half-measures that fail to address the whole cluster of problems.  
+The establishment of the Global RESTORATION Project in 2020 arose from a combination of alarm and inspiration.  **Alarm** because far too little attention is given to a cluster of integrated environmental and legal issues facing our species today.  Yes, many experts advocate change in energy policy at a global scale, especially to wean humans off of fossil carbon.  And yes, many experts study how to reform agriculture to reduce its ecological impact.  For us, though, a great many of those proposals are narrow half-measures that fail to address the whole cluster of problems.  
 
-Hence our decision to combine the four key elements of the GRP – that is, Responsible Energy, Smart Technology, Organic Regenerative Agroecology, and Territorially Integrated Operational Networks.  In a nutshell, we started the Global Restoration Project to hasten a collective realization that dramatic changes must come rapidly to energy policy, technological development, agricultural systems, and global governance – all as explained in more detail below. 
+Hence our decision to combine the four key elements of the GRP – that is, Responsible Energy, Smart Technology, Organic Regenerative Agroecology, and Territorially Integrated Operational Networks, hence the acronym "RESTORATION".  In a nutshell, we started the Global Restoration Project to hasten a collective realization that dramatic changes must come rapidly to energy policy, technological development, agricultural systems, and global governance – all as explained in more detail below. 
 
 And what about **inspiration**?  For each of these four elements, we also identify below some specific sources of inspiration for the GRP’s initial location in Kansas.  
  
