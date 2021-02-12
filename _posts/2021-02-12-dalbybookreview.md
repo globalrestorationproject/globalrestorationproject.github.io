@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Book Recommendation, Simon Dalby
-subtitle: Anthropocene Geopolitics: Globalization, Security, Sustainability
+title: Simon Dalby, Anthropocene Geopolitics
+subtitle: Book Recommendation
 cover-img: /assets/img/Pasture.jpg
 thumbnail-img: /assets/img/thumbnails/Pasture_thumbnail.jpg
-tags: [book_review]
+tags: [book_recommendation]
 ---
-
 # Book Recommendation #
 
 ... by John W. Head (posted 12 Feb 2021)
