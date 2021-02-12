@@ -4,11 +4,11 @@ title: The Global RESTORATION Project
 cover-img: /assets/img/homepage.jpg
 ---
 
-**Welcome to our newly-launched website!  Although our Global RESTORATION Project was started in 2020, we are just now “going live” with this website.  We appreciate your patience as we continue building the website, and we welcome any suggestions and questions you might have.  Suggestions can be directed to Contact@GlobalRestorationProject.org.**
+Welcome to our newly-launched website!  Although our Global RESTORATION Project was started in 2020, we are just now “going live” with this website.  We appreciate your patience as we continue building the website, and we welcome any suggestions and questions you might have.  Suggestions can be directed to Contact@GlobalRestorationProject.org.
 
 **Why we want you here:** (1) to *contribute* ideas, links to related organizations, and energy (**not money**) to the Global RESTORATION Project and (2) to *benefit* from teh resources that the GRP povides - information, contacts, essays, and more.  For details, see the "What You Can Do" page, under the "About Us" tab. 
 
-#### View our latest work, *The Paris Climate Accord and Biden's Inevitable Struggle in 2021*, [here.](https://globalrestorationproject.github.io/2021-01-04-paris-accords-2021/)
+View our latest work, *Book Recommendation: Simon Dalby, Anthropocene Geopolitics*, [here.](https://globalrestorationproject.org/2021-02-12-dalbybookreview/)
 
 ![test](/assets/img/home_page_body_color.jpg)
 
