@@ -2,7 +2,7 @@
 layout: page
 title: What You Can Do
 subtitle: How You Can Help the GRP
-cover-img: /assets/img/prairie_reserve.jpg
+cover-img: /assets/img/tallgrass_prairie_reserve.jpg
 ---
 
 #### What you can do for the GRP
