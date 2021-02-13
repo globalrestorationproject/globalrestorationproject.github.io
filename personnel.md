@@ -4,6 +4,8 @@ title: Personnel
 cover-img: /assets/img/green_gray_prairie_original.jpg
 ---
 
+Our Global RESTORATION Project team consists only of a few people, but we welcome others interested in helping in ways that match your time and energy.
+
 #### John W. Head
 ![](/assets/img/head_headshot.png)
 
