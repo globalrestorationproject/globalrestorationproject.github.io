@@ -8,7 +8,7 @@ Welcome to our newly-launched website!  Although our Global RESTORATION Project 
 
 **Why we want you here:** (1) to *contribute* ideas, links to related organizations, and energy (**not money**) to the Global RESTORATION Project and (2) to *benefit* from teh resources that the GRP povides - information, contacts, essays, and more.  For details, see the "What You Can Do" page, under the "About Us" tab. 
 
-**View our latest work, *Book Recommendation: Simon Dalby, Anthropocene Geopolitics*, [here.](https://globalrestorationproject.org/2021-02-12-dalbybookreview/)**
+**View our latest work, *Book Recommendation: Rinker Buck, The Oregon Trail*, [here.](https://globalrestorationproject.org/2021-02-19-rinker-buck-book-recc/)**
 
 ![test](/assets/img/home_page_body_color.jpg)
 
