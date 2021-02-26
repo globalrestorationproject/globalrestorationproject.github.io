@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joseph Henrich, the WEIRDest People in the World
+title: Joseph Henrich, The WEIRDest People in the World
 subtitle: Book Recommendation
 cover-img: /assets/img/prairie_grass_flowers_sunset.jpg
 thumbnail-img: /assets/img/thumbnails/prairie_grass_flowers_sunset_thumbnail.jpg
