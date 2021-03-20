@@ -5,6 +5,7 @@ subtitle: Working Paper
 cover-img: /assets/img/plant_growing_bokeh.jpg
 thumbnail-img: /assets/img/thumbnails/plant_growing_bokeh_thumbnail.jpg
 share-img: /assets/img/wheat_canola_field.jpg
+comments: true
 tags: [working_paper]
 ---
 ### Inching Forward: Legislative Steps Toward Sustainable Agriculture in the United States
