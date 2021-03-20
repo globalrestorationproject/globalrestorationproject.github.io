@@ -4,6 +4,7 @@ title: A New Bretton Woods?
 subtitle: Commentary
 cover-img: /assets/img/blue_globe.jpg
 thumbnail-img: /assets/img/thumbnails/blue_globe_thumbnail.jpg
+comments: true
 tags: [commentary]
 ---
 
