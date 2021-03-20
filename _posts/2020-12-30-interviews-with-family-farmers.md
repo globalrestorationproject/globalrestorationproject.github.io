@@ -4,6 +4,7 @@ title: Interviews with (My) Family Farmers, Lessons Learned From a Very, Very Sm
 subtitle: Invited Essay
 cover-img: /assets/img/Pasture.jpg
 thumbnail-img: /assets/img/thumbnails/Pasture_thumbnail.jpg
+comments: true
 tags: [invited_essay]
 ---
 ### Interviews with (My) Family Farmers
