@@ -4,6 +4,7 @@ title: Simon Dalby, Anthropocene Geopolitics
 subtitle: Book Recommendation
 cover-img: /assets/img/Pasture.jpg
 thumbnail-img: /assets/img/thumbnails/Pasture_thumbnail.jpg
+comments: true
 tags: [book_recommendation]
 ---
 # Book Recommendation #
