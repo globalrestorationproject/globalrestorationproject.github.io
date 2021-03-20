@@ -4,6 +4,7 @@ title: The Youth Vote
 subtitle: Commentary
 cover-img: /assets/img/empty_grassland.jpg
 thumbnail-img: /assets/img/thumbnails/empty_grassland_thumbnail.jpg
+comments: true
 tags: [commentary]
 ---
 
