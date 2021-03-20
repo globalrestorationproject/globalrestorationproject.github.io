@@ -4,6 +4,7 @@ title: Ruth DeFries, What Would Nature Do? A guide for our uncertain times
 subtitle: Book Recommendation
 cover-img: /assets/img/empty_grassland.jpg
 thumbnail-img: /assets/img/thumbnails/empty_grassland_thumbnail.jpg
+comments: true
 tags: [book_recommendation]
 ---
 # Book Recommendation #
