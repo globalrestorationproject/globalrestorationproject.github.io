@@ -4,6 +4,7 @@ title: Legal Regimes Governing Seeds
 subtitle: Working Paper
 cover-img: /assets/img/grass_zoom_tan.jpg
 thumbnail-img: /assets/img/thumbnails/grass_zoom_tan_thumbnail.jpg
+comments: true
 tags: [working_paper]
 ---
 
