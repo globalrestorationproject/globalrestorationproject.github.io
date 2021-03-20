@@ -4,6 +4,7 @@ title: Peter Turchin's Cliodynamics And Dire Predictions
 subtitle: Commentary
 cover-img: /assets/img/green_gray_prairie_original.jpg
 thumbnail-img: /assets/img/thumbnails/green_gray_prairie_original_thumbnail.jpg
+comments: true
 tags: [commentary]
 ---
 ### Commentary: Peter Turchin’s Cliodynamics and Dire Predictions
