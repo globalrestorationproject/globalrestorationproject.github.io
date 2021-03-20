@@ -4,6 +4,7 @@ title: Rinker Buck, The Oregon Trail
 subtitle: Book Recommendation
 cover-img: /assets/img/stubble_sunset.jpg
 thumbnail-img: /assets/img/thumbnails/stubble_sunset_thumbnail.jpg
+comments: true
 tags: [book_recommendation]
 ---
 # Book Recommendation #
