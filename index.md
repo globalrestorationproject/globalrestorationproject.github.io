@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Global RESTORATION Project
-cover-img: /assets/img/homepage.jpg/
+cover-img: /assets/img/homepage.jpg
 ---
 
 Welcome to our newly-launched website!  Although our Global RESTORATION Project was started in 2020, we are just now “going live” with this website.  We appreciate your patience as we continue building the website, and we welcome any suggestions and questions you might have.  Suggestions can be directed to Contact@GlobalRestorationProject.org.
