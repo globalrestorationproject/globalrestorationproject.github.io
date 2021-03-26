@@ -238,8 +238,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
-
-
+# SEO parameters for jekyll-seo-tag
+  
+tagline: The Global Restoration Project is a global interdisciplinary initiative to help create a future of RESTORATION to save a living planet Earth.
+description: The Global Restoration Project is a global interdisciplinary initiative to help create a future of RESTORATION to save a living planet Earth with Responsible Energy, Smart Technology, Organic Regenerative Agroecology, and Territorrially Integrated Operational Networks. 
+url: globalrestorationproject.org
+author: 
+  twitter: JohnWarrenHead
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
