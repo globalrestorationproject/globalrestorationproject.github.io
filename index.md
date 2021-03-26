@@ -10,6 +10,8 @@ Welcome to our newly-launched website!  Although our Global RESTORATION Project 
 
 **View our latest blog post, *Fighting the Anthropocene*, [here.](https://globalrestorationproject.org/2021-03-19-fighting-the-anthropocene/)**
 
+![test](/assets/img/home_page_body_color.jpg)
+
 ![test](/assets/img/RE_color.jpg)
 
 ![test](/assets/img/ST_color.jpg)
