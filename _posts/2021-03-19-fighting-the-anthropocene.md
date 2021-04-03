@@ -4,6 +4,8 @@ title: Fighting the Anthropocene
 subtitle: Invited Essay
 cover-img: /assets/img/person_tossing_globe.jpg
 thumbnail-img: /assets/img/thumbnails/person_tossing_globe_thumbnail.jpg
+share-title: Fighting the Anthropocene
+share-description: The anthropocene is itself a crisis
 comments: true
 tags: [invited_essay]
 ---
