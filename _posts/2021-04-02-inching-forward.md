@@ -6,6 +6,8 @@ cover-img: /assets/img/plant_growing_bokeh.jpg
 thumbnail-img: /assets/img/thumbnails/plant_growing_bokeh_thumbnail.jpg
 share-img: /assets/img/wheat_canola_field.jpg
 comments: true
+share-title: Inching Forward Legislative Steps Toward Sustainable Agriculture in the United States
+share-description: A forty-year survey of Congressional efforts to promote sustainable agriculture
 tags: [working_paper]
 ---
 ### Inching Forward: Legislative Steps Toward Sustainable Agriculture in the United States
