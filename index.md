@@ -8,7 +8,7 @@ Welcome to our newly-launched website!  Although our Global RESTORATION Project 
 
 **Why we want you here:** (1) to *contribute* ideas, links to related organizations, and energy (**not money**) to the Global RESTORATION Project and (2) to *benefit* from the resources that the GRP povides - information, contacts, essays, and more.  For details, see the "What You Can Do" page, under the "About Us" tab. 
 
-**View our latest blog post, *Influential Writers on Agrarian Values and Environmental Protection*, [here.](https://globalrestorationproject.org/2021-04-16-literature-survey/)**
+**View our latest blog post, *Legal Regimes Governing Seeds*, [here.](https://globalrestorationproject.org/2021-04-30-legal-seed-regimes/)**
 
 ![test](/assets/img/home_page_body_color.jpg)
 
