@@ -37,7 +37,12 @@ Nepal has recently had a growing interest from both the governmental and non-gov
 
 ##### Key Takeaways
 
+:---:
+
 ###### Full-Cost Accounting
+
+--- 
+
 The principle of full-cost accounting factors environmental, economic, and social impacts into produce costs. The price of the product might not reflect its true cost without factoring in medical bills and environmental cleanup costs. Anne-Sophie Poisot, a Programme Coordinator at the Food and Agriculture Organization of the United Nations, stated “there is no such thing as cheap food. If we think our food is cheap then somebody else is paying the price. It’s either the next generation or ourselves by paying state and hospital bills. From increased health issues and the burden of non-communicable diseases, our environment and our children will bear the cost.” 
 
 ###### A Holistic Approach
