@@ -37,6 +37,7 @@ Nepal has recently had a growing interest from both the governmental and non-gov
 
 ##### Key Takeaways
 
+
 ###### Full-Cost Accounting
 The principle of full-cost accounting factors environmental, economic, and social impacts into produce costs. The price of the product might not reflect its true cost without factoring in medical bills and environmental cleanup costs. Anne-Sophie Poisot, a Programme Coordinator at the Food and Agriculture Organization of the United Nations, stated “there is no such thing as cheap food. If we think our food is cheap then somebody else is paying the price. It’s either the next generation or ourselves by paying state and hospital bills. From increased health issues and the burden of non-communicable diseases, our environment and our children will bear the cost.” 
 
@@ -51,6 +52,7 @@ National Organic Flagship Program Manager for the Ministry of Agriculture of Bhu
 **O**rganic **R**egenerative **A**griculture sits at the very heart of the kind of REST**ORA**TION that the Global RESTORATION Project envisions for the world. For us at the GRP, examining the promise of agroecology and territorially integrated operational networks is valuable. This conference on “Scaling Up Agroecology in the Himalayas Together” is no exception. By establishing ONE Himalayan Brand, the countries of the Himalayan region can move beyond age-worn notions of sovereignty to create integrated networks for managing their mountain ecosystem based on practical ecological realities. Such territorially integrated operational networks are a prime example of how the Himalayan region can scale up agroecology through innovative human solutions. The Himalayas include fifty mountains, many of which form Earth’s highest peaks. They have blessed us with breathtaking views for thousands of years. Humanity now climbs a different kind of apex. It is crucial that we seek more sustainable, regenerative, ecological solutions before we reach the point of no return. If we can collaborate and treat our biomes as ONE, there is a chance we way peak a glimpse at a brighter tomorrow. 
 
 ##### What's Next?
+
 
 ###### Food Policy Forum for Change
 The Food Policy Forum Change is an online platform designed as a safe space for policymakers to exchange ideas and research.  The goal of the platform is to help and encourage policymakers of the Himalayan region to work together toward a unified vision and to facilitate communication and sharing of research, resources, and knowledge. 
