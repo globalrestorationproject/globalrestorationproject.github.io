@@ -65,5 +65,4 @@ The 2021 Organic World Congress will be held virtually on September 6–10. Orga
 
 Organized by: IFOAM Organics International, The World Future Council, with support from the German Federal Ministry for Economic Cooperation and Development
 
-Please click below to watch the recordings of the two-day event:
-**Day 1 – 28th of April:** [click here](https://www.youtube.com/watch?v=9tgoqSeNFcg) and **Day 2 – 29th of April:** [click here](https://www.youtube.com/watch?v=JMnKuMiZSsU)
+Please click the dates to watch the recordings of the two-day event: [Day 1 – 28th of April](https://www.youtube.com/watch?v=9tgoqSeNFcg) and [Day 2 – 29th of April](https://www.youtube.com/watch?v=JMnKuMiZSsU)
