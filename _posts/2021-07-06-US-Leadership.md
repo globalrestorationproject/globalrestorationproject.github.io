@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can the United States exercise international leadership on climate issues? 
+title: U.S. Leadership on Climate Change
 subtitle: Commentary
 cover-img: /assets/img/grass_zoom_tan.jpg
 thumbnail-img: /assets/img/thumbnails/grass_zoom_tan_thumbnail.jpg
@@ -8,6 +8,7 @@ comments: true
 tags: [commentary]
 ---
 
+### Can the United States exercise international leadership on climate issues? 
 **Author: Xing Lijuan**
 
 Accompanying President Biden’s announcement of Jan. 20, 2021 on rejoining the Paris Agreement is his vow to exercise United States international leadership on climate issues, as is contained in Executive Order 13990 of Jan. 20, 2021 and Executive Order 14008 of Jan. 27, 2021.  Those declarations raise two questions: (1) What does “international leadership” mean for climate issues? (2) Can the United States or another individual country exercise such international leadership?
