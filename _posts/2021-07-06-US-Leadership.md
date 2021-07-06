@@ -9,6 +9,7 @@ tags: [commentary]
 ---
 
 **Author: Xing Lijuan**
+
 Accompanying President Biden’s announcement of Jan. 20, 2021 on rejoining the Paris Agreement is his vow to exercise United States international leadership on climate issues, as is contained in Executive Order 13990 of Jan. 20, 2021 and Executive Order 14008 of Jan. 27, 2021.  Those declarations raise two questions: (1) What does “international leadership” mean for climate issues? (2) Can the United States or another individual country exercise such international leadership?
 
 In the *Executive Order on Tackling the Climate Crisis at Home and Abroad* (EO 14008), the Biden Administration formulates its approaches of exercising U.S. international leadership, including mainly: (a) convening or coordinating international forums and events, (b) developing ambitious national mitigation targets and pushing corresponding domestic reforms, and (c) exporting the climate-centered norms, as well as financial and technological resources, to its partners with a view to increasing global climate ambition to meet the climate challenges. I maintain that the prospective implementation and accomplishment of those plans and measures may send the United States back to the global regime as an active and influential participant, but by no means as a leader, on the ground that an international leader on climate issues has to go far beyond a convener, a coordinator, an advocate, or a donor.
