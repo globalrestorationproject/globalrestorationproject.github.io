@@ -50,7 +50,7 @@ Emily is a J.D. candidate at the University of Kansas School of Law.  Prior to l
 ---
 
 #### Chloe Ketchmark
-![](/assets/img/Chloe_Picture.jpg)
+![](/assets/img/Chloe_Pic.jpg)
 
 Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she is a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Outside of the law school, Chloe plays with her two crazy chihuahuas, teaches yoga, and likes to sew. 
 
