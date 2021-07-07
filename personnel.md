@@ -43,14 +43,14 @@ Dr. Xing Lijuan is a legal scholar who grew up in Dalian, China and currently li
 ---
 
 #### Emily Otte
-![](/assets/img/Otte_Headshot.jpg=100x20)
+![](/assets/img/Otte_Headshot.jpg= 100x20)
 
 Emily is a J.D. candidate at the University of Kansas School of Law.  Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  At the law school, she is involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review.  In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
 
 ---
 
 #### Chloe Ketchmark
-![](/assets/img/chloe-pic.jpg=100x20)
+![](/assets/img/chloe-pic.jpg= 100x20)
 Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she is a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Outside of the law school, Chloe plays with her two crazy chihuahuas, teaches yoga, and likes to sew. 
 
 ---
