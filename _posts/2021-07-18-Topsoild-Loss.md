@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Topsoil loss – a continuing crisis
+title: Topsoil Loss: A Continuing Crisis
 subtitle: Commentary
 cover-img: /assets/img/grass_zoom_tan.jpg
 thumbnail-img: /assets/img/thumbnails/grass_zoom_tan_thumbnail.jpg
@@ -8,8 +8,8 @@ comments: true
 tags: [commentary]
 ---
 
-### Topsoil loss – a continuing crisis
-**Author: John W. Headn**
+### Topsoil Loss: A Continuing Crisis
+**Author: John W. Head**
 
 Soil is life, in many ways.  We can plausibly say that soil itself is alive, not only because it contains countless organisms of all types and sizes but also because it constitutes a network of relationships that are regenerative and whose whole is greater than the sum of its parts … and this is surely qualifies it for saying that soil is “alive”.  But soil is life in another, more pedestrian sense:  it serves as the source of life by providing a rich medium in which food grows to provide nutrition for humans and for all of our fellow creatures.   
 
