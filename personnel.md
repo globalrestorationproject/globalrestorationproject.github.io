@@ -43,7 +43,7 @@ Dr. Xing Lijuan is a legal scholar who grew up in Dalian, China and currently li
 ---
 
 #### Emily Otte
-![](/assets/img/Otte_Headshot.jpg)
+<img src="/assets/img/Otte_Headshot.jpg" width="200" height="200"/>
 
 Emily is a J.D. candidate at the University of Kansas School of Law.  Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  At the law school, she is involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review.  In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
 
@@ -57,6 +57,6 @@ Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to la
 ---
 
 #### Margy Stewart
-![](/assets/img/margy-pic.jpg)
+<img src="assets/img/margy-pic.jpg" width="200" height="200"/>
 
 Together with Ustaine Talley, Margy Stewart helped to found Prairie Heritage, Inc., a non-profit 501(c)(3) corporation dedicated to preserving the prairie, sharing its stories, and highlighting links between ecology and social justice (prairieheritage.org).   Margy grew up in Wisconsin, earned an A.B. from Radcliffe/Harvard, and a Ph.D. from the University of Wisconsin.  She has held teaching jobs in various places—Algeria, Colorado, Wisconsin, Indiana, and Kansas.   She is currently Emerita Professor of English at Washburn University in Topeka, Kansas.   She and her husband are the proprietors of Bird Runner Wildlife Refuge in the Flint Hills of Kansas, where, in addition to preserving 260 acres of upland native prairie, they are restoring 70 acres of former cropground to bottomland tall grass prairie.  
