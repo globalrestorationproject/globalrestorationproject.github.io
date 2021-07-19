@@ -7,7 +7,7 @@ cover-img: /assets/img/green_gray_prairie_original.jpg
 Our Global RESTORATION Project team consists only of a few people, but we welcome others interested in helping in ways that match your time and energy.
 
 #### John W. Head
-![](/assets/img/head_headshot.png)
+<img src="/assets/img/head_headshot.png" width="200" height="200"/>
 
 JohnHead@GlobalRestorationProject.org
 
@@ -36,7 +36,7 @@ the Rocky Mountains of Colorado, and the Columbia Gorge in Washington.
 ---
 
 #### Lijuan Xing
-![](/assets/img/Lijuan_headshot_resized.jpg)
+<img src="/assets/img/Lijuan_headshot_resized.jpg" width="200" height="200"/>
 
 Dr. Xing Lijuan is a legal scholar who grew up in Dalian, China and currently lives in Victoria, Canada. She earned her Bachelor of Laws (2001) and Master of Laws (2004) from Dalian Maritime University (China), Ph.D. in Economics (International Trade Policies, 2007) from Dongbei Finance and Economics University (China), and Doctor of Judicial Science (S.J.D.) (International and Comparative Law, 2012) from the University of Kansas (the U.S.). She possesses experiences of law teaching and legal research at Dongbei Finance and Economic University School of International Economics and Trade (2005-2008, China), University of Manitoba Robson Hall Faculty of Law (2012, Canada), and City University of Hong Kong School of Law (2013-2019, Hong Kong SAR). Her teaching and research center on the areas of international economic law, international trade law, Chinese law, comparative law, and maritime law. She has published monographs, book chapters, and journal articles, presented her works, and delivered guest lectures in diverse jurisdictions including the U.S., Canada, the Netherlands, Hong Kong SAR, Korea, the U.K., Australia, and mainland China.
 
