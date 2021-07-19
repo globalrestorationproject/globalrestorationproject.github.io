@@ -64,5 +64,5 @@ Together with Ustaine Talley, Margy Stewart helped to found Prairie Heritage, In
 ---
 
 #### Melinda Foshat
-<img src="/assets/img/Melinda-pic.png" width="200" height="300"/>
+<img src="/assets/img/Melinda-pic.png" width="150" height="200"/>
 Melinda is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and a participant in the 2021 Philip C. Jessup International Law Moot Court Competition. She currently serves as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her three-year old pup, Carrie. 
