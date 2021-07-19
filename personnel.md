@@ -60,3 +60,9 @@ Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to la
 <img src="/assets/img/margy-pic.jpg" width="200" height="200"/>
 
 Together with Ustaine Talley, Margy Stewart helped to found Prairie Heritage, Inc., a non-profit 501(c)(3) corporation dedicated to preserving the prairie, sharing its stories, and highlighting links between ecology and social justice (prairieheritage.org).   Margy grew up in Wisconsin, earned an A.B. from Radcliffe/Harvard, and a Ph.D. from the University of Wisconsin.  She has held teaching jobs in various places—Algeria, Colorado, Wisconsin, Indiana, and Kansas.   She is currently Emerita Professor of English at Washburn University in Topeka, Kansas.   She and her husband are the proprietors of Bird Runner Wildlife Refuge in the Flint Hills of Kansas, where, in addition to preserving 260 acres of upland native prairie, they are restoring 70 acres of former cropground to bottomland tall grass prairie.  
+
+---
+
+#### Melinda Foshat
+<img src="/assets/img/Melinda-pic.png" width="200" height="200"/>
+Melinda is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and a participant in the 2021 Philip C. Jessup International Law Moot Court Competition. She currently serves as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her three-year old pup, Carrie. 
