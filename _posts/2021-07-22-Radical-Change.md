@@ -8,7 +8,7 @@ comments: true
 tags: [commentary]
 ---
 
-### Some thoughts on radical change
+### Some Thoughts on Radical Change
 **Author: John W. Head**
 
 A recent issue of the Defenders magazine, published by the Defenders of Wildlife, opens with an essay on the need to “reverse course” on the wildlife-protection front.  The organization’s president writes this: 
