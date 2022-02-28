@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Personnel
+title: The GRP Team
 cover-img: /assets/img/green_gray_prairie_original.jpg
 ---
 
-Our Global RESTORATION Project team consists only of a few people, but we welcome others interested in helping in ways that match your time and energy.
+Our Global Restoration Project Team consists only of a few people, but we welcome others interested in helping in ways that match your time and energy. Contact us if you want to join the GRP Team or become a GRP colleague: contact@GlobalRestorationProject.org
 
 #### John W. Head
 ![](/assets/img/head_headshot.png)
@@ -45,14 +45,14 @@ Dr. Xing Lijuan is a legal scholar who grew up in Dalian, China and currently li
 #### Emily Otte
 <img src="/assets/img/Otte_Headshot.jpg" width="200" height="200"/>
 
-Emily is a J.D. candidate at the University of Kansas School of Law.  Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  At the law school, she is involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review.  In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
+Emily is an attorney holding a J.D. degree from the University of Kansas where she was involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review. Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  She currently works in the U.S. District Courts system and will soon begin private law practice. Her special legal interest involve environmental law and justice. In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
 
 ---
 
 #### Chloe Ketchmark
 <img src="/assets/img/chloe-pic.png" width="200" height="200"/>
 
-Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she is a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Outside of the law school, Chloe plays with her two crazy chihuahuas, teaches yoga, and likes to sew. 
+Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she is a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. After completing her J.D. degree, Chloe wil work in the U.S. District Courts system before entering private practice of law, where her interests include international environmental law. In her sparetime, Chloe plays with her two crazy chihuahuas, teaches yoga, and likes to sew. 
 
 ---
 
@@ -66,4 +66,4 @@ Together with Ustaine Talley, Margy Stewart helped to found Prairie Heritage, In
 #### Melinda Foshat
 <img src="/assets/img/Melinda-pic.png" width="175" height="215"/>
 
-Melinda is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and a participant in the 2021 Philip C. Jessup International Law Moot Court Competition. She currently serves as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her three-year old pup, Carrie. 
+Melinda is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and served two years (one as manager) on KU's Philip C. Jessup International Law Moot Court team. She currently serves as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her four-year old pup, Carrie. 
