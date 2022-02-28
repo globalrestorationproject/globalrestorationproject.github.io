@@ -3,6 +3,8 @@ layout: page
 title: Working Papers 
 cover-img: /assets/img/tall_grass_grassland_resized.jpg
 ---
+These larger research papter–some written by GRP Team members or GRP Colleagues and undergoing only light editing for formating–take various forms and are of varying lengths...but relate to our work at the Globral Restoration Project. Do you want your paper posted here? Tell us at Contact@GlobalRestorationProject.org
+
 ##### [Legal Regimes Governing Seeds](https://globalrestorationproject.github.io/2020-12-28-legal-seed-regimes/)
 Author: Sam Walter
 
