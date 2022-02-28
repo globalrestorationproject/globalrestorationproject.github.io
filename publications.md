@@ -8,12 +8,12 @@ Although the Global Restoration Project does not itself publish books, we wish t
 
 All Publications (more details on book appear below):
 * *More Than Friends? U.S.-Canada Cooperative Frameworks on Agriculture and the Environment*, 70 Kansas Law Review _-_, by John W. Head and Emily Otte (forthcoming 2022).
-* Deep Agroecology and the Homeric Epics, by John W. Head (2021)
-* A Global Corporate Trust for Agroecological Integrity, by John W. Head (2019)
+* Deep Agroecology and the Homeric Epics: Global Cultural Reform for a Natural-Systems Agriculture, by John W. Head (2021)
+* A Global Corporate Trust for Agroecological Integrity: New Agriculture in a World of Legitimate Eco-States, by John W. Head (2019)
 * *Addressing Global Challenges through Pluralistic Sovereignty: A critique of state sovereignty as a centerpiece of international law*, 67 Kansas Law Review 727–821, by John W. Head (2019)
 * *Kentucky's Agricultural and Ecological Future: Designing legal and Policy Initiatives for the Commonwealth to Develop Tomorrow's Foodcrops*, 11 Kentucky Journal of Equine, Agriculture & Natural Resources Law 1–61, by John W. Head (2019)
 * *A Mediterranean Biome Eco-State: Reorienting Sovereignty in the Mediterranean Basin and its Four Global Correlatives*, 10 Mediterranean Review 113–144, by John W. Head (2018)
-* International Law and Agroecological Husbandry, by John W. Head (2017)
+* International Law and Agroecological Husbandry: Building Legal Foundations for a New Agriculture, by John W. Head (2017)
 * Global Legal Regimes to Protect the World's Grasslands, by John W. Head (2012)
 
 ---
