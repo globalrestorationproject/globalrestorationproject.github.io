@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Partners
+title: Colleagues
 cover-img: /assets/img/green_wheat_canola_field.jpg
 ---
 
-[ this page will feature the names (and affiliations) of numerous individuals having a special relationship with the Global RESTORATION Project, such as colleagues at The Land Instutute, at the University of Kansas, at other institutions, as well as fellow researchers in the areas of most concern to the Project ...  but with a clear indication that the material shown on the website does not necessarily reflect the views of persons listed here ]
+We have recently added this page to list **Colleagues, Contributors and Commentators.** These "fellow travellers" include (1) colleagues in various research, think-tank, and academic institutions, as well as fellow researchers in the areas of most concern to the Project, plus (2) persons who accept our invitation to write essays, provide commentaries & criticisms, or make other contributions to the GRP's work. In all such cases, though, we emphasize that the material shown on the website does not necessarily reflect the views of persons listed here. 
