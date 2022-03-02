@@ -3,7 +3,7 @@ layout: page
 title: The Global Restoration Project
 cover-img: /assets/img/homepage.jpg
 ---
-##### Our GRP Team expects the Global Restoration Project to evolve steadily.  As we see it now, the GRP has the following Character, Mission, Vision, and Themes:
+### Our GRP Team expects the Global Restoration Project to evolve steadily.  As we see it now, the GRP has the following Character, Mission, Vision, and Themes:
  
 **Character:** The GRP is an informal multidisciplinary think tank involving legal and policy experts eager to exchange ideas revolving around global ecological restoration.
  
