@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beloved Community, Land Community:  Joining In
+title: Beloved Community, Land Community - Joining In
 subtitle: Commentary
 cover-img: /assets/img/grass_zoom_tan.jpg
 thumbnail-img: /assets/img/thumbnails/grass_zoom_tan_thumbnail.jpg
