@@ -131,6 +131,7 @@ It is both!
 Together--humans and more-than-humans--we can find our way home.  
 
 Works Cited
+
 Campney, Brent M.S.  *This Is Not Dixie: Racist Violence in Kansas*, 1861-1927.  U of I P, 2015.
 Carver, George Washington.  *George Washington Carver: In His Own Words.*  Ed. Gary R. Kremer.  Columbia: U of Mo P, 2017.
 Clark, Glen.  *The Man Who Talks with the Flowers: The Intimate Life Story of Dr. George Washington Carver.*  Macalester Park, 1976.  
