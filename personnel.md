@@ -52,7 +52,7 @@ Emily is an attorney holding a J.D. degree from the University of Kansas where s
 #### Chloe Ketchmark
 <img src="/assets/img/chloe-pic.png" width="200" height="200"/>
 
-Chloe is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she is a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. After completing her J.D. degree, Chloe wil work in the U.S. District Courts system before entering private practice of law, where her interests include international environmental law. In her sparetime, Chloe plays with her two crazy chihuahuas, teaches yoga, and likes to sew. 
+graduated from the University of Kansas School of Law in May 2022 with a J.D. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she was a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Now, Chloe will work in the U.S. District Courts system before entering private practice of law, where her interests include international environmental law. In her sparetime, Chloe walks her dogs, runs, teaches yoga, and likes to sew. 
 
 ---
 
@@ -66,4 +66,18 @@ Together with Ustaine Talley, Margy Stewart helped to found Prairie Heritage, In
 #### Melinda Foshat
 <img src="/assets/img/Melinda-pic.png" width="175" height="215"/>
 
-Melinda is a J.D. candidate at the University of Kansas School of Law. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and served two years (one as manager) on KU's Philip C. Jessup International Law Moot Court team. She currently serves as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her four-year old pup, Carrie. 
+graduated from the University of Kansas School of Law in May 2022 with a J.D. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and served two years (one as manager) on KU's Philip C. Jessup International Law Moot Court team. She served as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her four-year old pup, Carrie. 
+
+---
+
+#### Danny Volin
+<img src="/assets/img/Danny-Pic.png" width="175" height="215"/>
+
+Danny Volin is J.D. candidate at the University of Kansas School of Law. Before law school, he graduated from Johns Hopkins University with a MFA in creative writing, Creighton University with a MA in English, and Rockhurst University with a degree in English and philosophy, and worked as a marketing writer. In his free time, Danny enjoys biking, hiking, reading, and running.
+
+---
+
+#### David Halliwell
+<img src="/assets/img/David-pic.png" width="175" height="215"/>
+
+David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. After graduation, he will work as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
