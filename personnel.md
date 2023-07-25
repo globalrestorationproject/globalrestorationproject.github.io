@@ -4,7 +4,7 @@ title: The GRP Team
 cover-img: /assets/img/green_gray_prairie_original.jpg
 ---
 
-Our Global Restoration Project Team consists only of a few people, but we welcome others interested in helping in ways that match your time and energy. Contact us if you want to join the GRP Team or become a GRP colleague: contact@GlobalRestorationProject.org
+Our Global Restoration Project Team consists only of a few people, but we welcome others interested in helping in ways that match your time and energy. Contact us if you want to join the GRP Team or become a GRP colleague: Contact@GlobalRestorationProject.org
 
 #### John W. Head
 ![](/assets/img/head_headshot.png)
@@ -12,12 +12,13 @@ Our Global Restoration Project Team consists only of a few people, but we welcom
 JohnHead@GlobalRestorationProject.org
 
 John W. Head holds the Robert W. Wagstaff Distinguished Professorship at the University of Kansas, where he concentrates on international and comparative law.  
+
 He earned his undergraduate degree from the University of Missouri at Columbia, an English law degree from Oxford University (1977), and his US law degree from the
 University of Virginia (1979).  Before starting an academic career, he worked in the Washington, DC office of Cleary, Gottlieb, Steen & Hamilton (1980-1983), at the
 Asian Development Bank in Manila (1983-1988), and at the International Monetary Fund in Washington (1988-1990).  
 
 Both his teaching and his published works concentrate in the broad areas of international law, international business, and comparative law. 
-Mr. Head’s principal books include *A Global Corporate Trust for Agroecological Integrity: New agriculture in a world of legitimate eco-states (2019), 
+Mr. Head’s principal books include *Deep Agricology and the Homeric Epics; Global cultural reforms for a natural-systems agriculture (2021), A Global Corporate Trust for Agroecological Integrity: New agriculture in a world of legitimate eco-states (2019), 
 Global Business Law: Principles and Practice of International Commerce and Investment (4th ed. 2018), International Law and Agroecological Husbandry: 
 Building legal foundations for a new agriculture (2017), Legal Transparency in Dynastic China: The Legalist-Confucianist Debate and Good Governance 
 in Chinese Tradition (2013, coauthored with Xing Lijuan), Global Legal Regimes to Protect the World’s Grasslands (2012), Great Legal Traditions: Civil Law,
@@ -30,6 +31,7 @@ international law, some of which have been published in Chinese and Indonesian.
 
 Mr. Head has been awarded Fulbright teaching and research fellowships to China, Italy, and Canada and has also taught in Austria, Hong Kong, Jordan, Mexico, Mongolia, Turkey, 
 and the United Kingdom and has undertaken special assignments in numerous locations for international financial institutions and development agencies.  
+
 Mr. Head is married to Lucia Orth, who is a lawyer, teacher, and novelist.  They split their time between the mixed grasslands of northeast Kansas, 
 the Rocky Mountains of Colorado, and the Columbia Gorge in Washington. 
 
@@ -38,21 +40,21 @@ the Rocky Mountains of Colorado, and the Columbia Gorge in Washington.
 #### Lijuan Xing
 ![](/assets/img/Lijuan_headshot_resized.jpg)
 
-Dr. Xing Lijuan is a legal scholar who grew up in Dalian, China and currently lives in Victoria, Canada. She earned her Bachelor of Laws (2001) and Master of Laws (2004) from Dalian Maritime University (China), Ph.D. in Economics (International Trade Policies, 2007) from Dongbei Finance and Economics University (China), and Doctor of Judicial Science (S.J.D.) (International and Comparative Law, 2012) from the University of Kansas (the U.S.). She possesses experiences of law teaching and legal research at Dongbei Finance and Economic University School of International Economics and Trade (2005-2008, China), University of Manitoba Robson Hall Faculty of Law (2012, Canada), and City University of Hong Kong School of Law (2013-2019, Hong Kong SAR). Her teaching and research center on the areas of international economic law, international trade law, Chinese law, comparative law, and maritime law. She has published monographs, book chapters, and journal articles, presented her works, and delivered guest lectures in diverse jurisdictions including the U.S., Canada, the Netherlands, Hong Kong SAR, Korea, the U.K., Australia, and mainland China.
+Dr. Xing Lijuan is a legal scholar who grew up in Dalian, China and currently holds a faculty position at Yat-sen University in Guangzhou, after having lived and worked for several years in the USA and Canada. She earned her Bachelor of Laws (2001) and Master of Laws (2004) from Dalian Maritime University (China), Ph.D. in Economics (International Trade Policies, 2007) from Dongbei Finance and Economics University (China), and Doctor of Judicial Science (S.J.D.) (International and Comparative Law, 2012) from the University of Kansas (the U.S.). She possesses earlier experiences of law teaching and legal research at Dongbei Finance and Economic University School of International Economics and Trade (2005-2008, China), University of Manitoba Robson Hall Faculty of Law (2012, Canada), and City University of Hong Kong School of Law (2013-2019, Hong Kong SAR). Her teaching and research center on the areas of international economic law, international trade law, Chinese law, comparative law, and maritime law. She has published monographs, book chapters, and journal articles, presented her works, and delivered guest lectures in diverse jurisdictions including the U.S., Canada, the Netherlands, Hong Kong SAR, Korea, the U.K., Australia, and mainland China.
 
 ---
 
 #### Emily Otte
 <img src="/assets/img/Otte_Headshot.jpg" width="200" height="200"/>
 
-Emily is an attorney holding a J.D. degree from the University of Kansas where she was involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review. Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  She currently works in the U.S. District Courts system and will soon begin private law practice. Her special legal interest involve environmental law and justice. In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
+Emily is an attorney holding a J.D. degree from the University of Kansas where she was involved in Women in Law and serves as the Executive Comments Editor for the Kansas Law Review. Prior to law school, she graduated from the University of Kansas with degrees in economics and mathematics and worked for a healthcare technology company.  She has worked extensively in the U.S. District Courts system and in private law practice. Her special legal interest involve environmental law and justice. In her spare time, Emily bakes bread, reads fantasy novels, and doomscrolls. 
 
 ---
 
 #### Chloe Ketchmark
 <img src="/assets/img/chloe-pic.png" width="200" height="200"/>
 
-graduated from the University of Kansas School of Law in May 2022 with a J.D. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she was a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Now, Chloe will work in the U.S. District Courts system before entering private practice of law, where her interests include international environmental law. In her sparetime, Chloe walks her dogs, runs, teaches yoga, and likes to sew. 
+Chloe graduated from the University of Kansas School of Law in May 2022 with a J.D. degree. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she was a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Now, Chloe has worked in the U.S. District Courts system and is currently in private practice of law, where her interests include international environmental law. In her sparetime, Chloe walks her dogs, runs, teaches yoga, and likes to sew. 
 
 ---
 
@@ -80,4 +82,4 @@ Danny Volin is J.D. candidate at the University of Kansas School of Law. Before 
 #### David Halliwell
 <img src="/assets/img/David-pic.png" width="200" height="175"/>
 
-David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. After graduation, he will work as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
+David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. degree and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. He currently works as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
