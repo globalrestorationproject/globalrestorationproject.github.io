@@ -7,7 +7,8 @@ cover-img: /assets/img/aerial_green_field.jpg
 Although the Global Restoration Project does not itself publish books, we wish to highlight several books and other pubplications that have a close connection to the aims and operations of the Global Restoration Project.  We welcome notifications about other publications written by, or of interest to, others involved in Restoration-related issues.
 
 All Publications (more details on book appear below):
-* *More Than Friends? U.S.-Canada Cooperative Frameworks on Agriculture and the Environment*, 70 Kansas Law Review _-_, by John W. Head and Emily Otte (forthcoming 2022).
+* *Planetary Health in time of converging crises: Reflections of Stockhold, Decolonization, Restoration, and Global Ecological Governance*, 19 LEAD Journal 285-300, by John W. Head (2023)
+* *More Than Friends? U.S.-Canada Cooperative Frameworks on Agriculture and the Environment*, 70 Kansas Law Review 447-482, by John W. Head and Emily Otte (2022).
 * Deep Agroecology and the Homeric Epics: Global Cultural Reform for a Natural-Systems Agriculture, by John W. Head (2021)
 * A Global Corporate Trust for Agroecological Integrity: New Agriculture in a World of Legitimate Eco-States, by John W. Head (2019)
 * *Addressing Global Challenges through Pluralistic Sovereignty: A critique of state sovereignty as a centerpiece of international law*, 67 Kansas Law Review 727–821, by John W. Head (2019)
@@ -17,7 +18,7 @@ All Publications (more details on book appear below):
 * Global Legal Regimes to Protect the World's Grasslands, by John W. Head (2012)
 
 ---
-##### The four books in that lot of publications are described more fully here:
+##### The four books in that list of publications are described more fully here:
 
 ###### Global Legal Regimes to Protect the World's Grasslands, by John W. Head (2012)
 Grasslands, prairies, and savannas once covered much of the Earth’s surface. Human action has visited great damage on those natural features, so that today 
@@ -60,6 +61,3 @@ Just as the “Agroecological Husbandry” book (above) focuses mainly on global
 Drawing on the Homeric epics, this multi-disciplinary book reveals the cultural transformation which needs to take place in order to transition from today’s modern extractive agricultural system to a sustainable natural-systems agriculture.  For this, Head reminds readers of the oldest and most pervasive pair of literary works in the Western canon:  the *Iliad* and the *Odyssey*.  He uses themes from those foundational works – such themes as nostos (homecoming), menis (rage), kleos apthaton (imperishable glory), polutropos (resourceful wandering & turning), and moira fate – to urge the current generations of humans to undertake a cultural transformation.  To what end?  ... to give us the strength and direction needed in addressing global ecological crises, especially the climate crisis and the soil crisis.  Head offers a detailed critique of the concept of state sovereignty and explains how innovative federalism structures around the world already show momentum building toward changes in global environmental governance.  This momentum must strengthen and accelerate, Head argues, in order to build a new world of responsible energy use, appropriate technology, nature-based agriculture, and competent participatory collaborative institutions.  But building such momentum and the new world we need will require a return to cultural foundations and then a project of creating what Head calls “a new Homeric epic” urging our species forward. 
 
 Available on e-Book for $44.05 [here.](https://www.routledge.com/Deep-Agroecology-and-the-Homeric-Epics-Global-Cultural-Reforms-for-a-Natural-Systems/Head/p/book/9780367622190)
-
-![Flyer1](/assets/img/Deep_Agro_Homer_Pic_1.jpg)
-![Flyer2](/assets/img/Deep_Agro_Homer_Pic_2.jpg)
