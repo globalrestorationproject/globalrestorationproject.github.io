@@ -48,7 +48,7 @@ social-network-links:
  # facebook: deanattali
  # github: daattali
   twitter: johnwarrenhead
-  substack: "https://globalrestorationproject.substack.com/"
+  <iframe src=https://globalrestorationproject.substack.com/embed width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> 
 #  patreon: DeanAttali
  # youtube: c/daattali
 #  reddit: yourname
