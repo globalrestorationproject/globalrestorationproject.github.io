@@ -48,7 +48,6 @@ social-network-links:
  # facebook: deanattali
  # github: daattali
   twitter: johnwarrenhead
-  <iframe src=https://globalrestorationproject.substack.com/embed width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> 
 #  patreon: DeanAttali
  # youtube: c/daattali
 #  reddit: yourname
@@ -68,7 +67,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
-# If you want to show a link to an RSS in the footer, add the site description here.
+https://globalrestorationproject.substack.com/
 # If you don't want to show an RSS link, remove the following line.
 # rss-description: This website is a virtual proof that I'm awesome
 
