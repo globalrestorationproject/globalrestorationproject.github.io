@@ -54,7 +54,7 @@ Emily is an attorney holding a J.D. degree from the University of Kansas where s
 #### Chloe Ketchmark
 <img src="/assets/img/chloe-pic.png" width="200" height="200"/>
 
-Chloe graduated from the University of Kansas School of Law in May 2022 with a J.D. degree. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she was a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Now, Chloe has worked in the U.S. District Courts system and is currently in private practice of law, where her interests include international environmental law. In her sparetime, Chloe walks her dogs, runs, teaches yoga, and likes to sew. 
+Chloe graduated from the University of Kansas School of Law in May 2022 with a J.D. degree. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she was a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Now, Chloe has worked in the U.S. District Courts system and is currently a Staff Attorney at the Legal Aid of Western Missouri. In her sparetime, Chloe walks her dogs, runs, teaches yoga, and likes to sew. 
 
 ---
 
@@ -83,3 +83,17 @@ Danny Volin is J.D. candidate at the University of Kansas School of Law. Before 
 <img src="/assets/img/David-pic.png" width="200" height="175"/>
 
 David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. degree and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. He currently works as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
+
+---
+
+#### Joshua Lollar
+<img src="/assets/img/Joshua-pic.png" width="200" height="175"/>
+
+Joshua Lollar is a J.D. Candidate (class of 2025) at the KU School of Law. He is married and has five children. He is a native Kansan and grew up in Lawrence and Wichita. He holds a PhD in theology and has done research on religious history and religion and the environment. After graduation, Joshua will start a federal clerkship with the Honorable David Gregory Kays in the Western District of Missouri.  
+
+---
+
+#### Emma Dipoto
+<img src="/assets/img/Emma-pic.png" width="200" height="175"/>
+
+Emma received her JD and certificate in Environment, Energy and Natural Resources Law from the University of Kansas School of Law in May 2024. Before law school, she received her BA in Sustainability Studies, Business Administration, and English from Graceland University. Emma is passionate about environmental and energy law, with a particular interest in how our food systems impact the climate and environment. In her free time, she enjoys reading, playing video games, and baking. 
