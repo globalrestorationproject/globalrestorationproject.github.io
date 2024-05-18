@@ -80,7 +80,7 @@ Danny Volin is J.D. candidate at the University of Kansas School of Law. Before 
 ---
 
 #### David Halliwell
-<img src="/assets/img/David-pic.png" width="200" height="175"/>
+<img src="/assets/img/David-pic.png" width="175" height="215"/>
 
 David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. degree and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. He currently works as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
 
@@ -94,6 +94,6 @@ Joshua Lollar is a J.D. Candidate (class of 2025) at the KU School of Law. He is
 ---
 
 #### Emma Dipoto
-<img src="/assets/img/Emma-pic.png" width="200" height="175"/>
+<img src="/assets/img/Emma-pic.png" width="175" height="215"/>
 
 Emma received her JD and certificate in Environment, Energy and Natural Resources Law from the University of Kansas School of Law in May 2024. Before law school, she received her BA in Sustainability Studies, Business Administration, and English from Graceland University. Emma is passionate about environmental and energy law, with a particular interest in how our food systems impact the climate and environment. In her free time, she enjoys reading, playing video games, and baking. 
