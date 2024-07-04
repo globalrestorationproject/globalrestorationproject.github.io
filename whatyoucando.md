@@ -14,6 +14,7 @@ Please help us serve you and others by contributing ideas, perspective linkages,
 * Writing a book review or book recommendation
 * Letting us know of any GRP-adjacent work you're doing
 * Keeping up with us on Twitter [here.](https://twitter.com/JohnWarrenHead)
+* Subscribing to our newsletter, the *GRP Gazette*, issued every other Friday
 
 In all these ways – and others that you can surely think of – your involvement with the Global Restoration Project (whether a little or a lot) can contribute to our aim of giving 
 measured, intelligent attention to the cluster of environmental and legal issues facing our species today, in the hope of addressing them with the urgency they deserve.
