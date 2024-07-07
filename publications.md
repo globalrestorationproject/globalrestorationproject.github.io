@@ -16,6 +16,8 @@ All Publications (more details on book appear below):
 * *A Mediterranean Biome Eco-State: Reorienting Sovereignty in the Mediterranean Basin and its Four Global Correlatives*, 10 Mediterranean Review 113–144, by John W. Head (2018)
 * International Law and Agroecological Husbandry: Building Legal Foundations for a New Agriculture, by John W. Head (2017)
 * Global Legal Regimes to Protect the World's Grasslands, by John W. Head (2012)
+* *International Law and Species Diversity: An Immodest Proposal for Implementing a Progressive 30x30 Natural Restoration Initiative in the Great North American Prairies*, 33 Kansas Journal of Law & Public Policy (forthcoming, spring 2024).
+* *Humans in Nature: Creating our new reality through ecological, cultural, global, ethical, and legal reform* (forthcoming in the UMKC LAW REVIEW).
 
 ---
 ##### The four books in that list of publications are described more fully here:
