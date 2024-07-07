@@ -65,22 +65,15 @@ Together with Ustaine Talley, Margy Stewart helped to found Prairie Heritage, In
 
 ---
 
-#### Melinda Foshat
-<img src="/assets/img/Melinda-pic.png" width="175" height="215"/>
-
-graduated from the University of Kansas School of Law in May 2022 with a J.D. Prior to law school, she graduated from Wagner College with a degree in English Literature and Theatre Studies. After graduating college Melinda created magic as a Walt Disney World photographer for several years. At KU Law, Melinda was a finalist in the 2020 In-House Mock Trial Competition and served two years (one as manager) on KU's Philip C. Jessup International Law Moot Court team. She served as the Symposium Editor for the Kansas Journal of Law & Public Policy. In her free time, Melinda enjoys hiking, blogging, writing poetry, and watching films. She is also a dog mom to her four-year old pup, Carrie. 
-
----
-
 #### Danny Volin
 <img src="/assets/img/Danny-Pic.png" width="175" height="215"/>
 
-Danny Volin is J.D. candidate at the University of Kansas School of Law. Before law school, he graduated from Johns Hopkins University with a MFA in creative writing, Creighton University with a MA in English, and Rockhurst University with a degree in English and philosophy, and worked as a marketing writer. In his free time, Danny enjoys biking, hiking, reading, and running.
+Danny Volin graduated from the University of Kansas School of Law in December 2023. Before law school, he graduated from Johns Hopkins University with a MFA in creative writing, Creighton University with a MA in English, and Rockhurst University with a degree in English and philosophy, and worked as a marketing writer. He currently works as an environmental lawyer. In his free time, Danny enjoys biking, hiking, reading, and running.
 
 ---
 
 #### David Halliwell
-<img src="/assets/img/David-pic.png" width="215" height="200"/>
+<img src="/assets/img/David-pic.png" width="205" height="175"/>
 
 David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. degree and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. He currently works as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
 
@@ -94,6 +87,6 @@ Joshua Lollar is a J.D. Candidate (class of 2025) at the KU School of Law. He is
 ---
 
 #### Emma Dipoto
-<img src="/assets/img/Emma-pic.png" width="175" height="215"/>
+<img src="/assets/img/Emma-pic.png" width="180" height="215"/>
 
 Emma received her JD and certificate in Environment, Energy and Natural Resources Law from the University of Kansas School of Law in May 2024. Before law school, she received her BA in Sustainability Studies, Business Administration, and English from Graceland University. Emma is passionate about environmental and energy law, with a particular interest in how our food systems impact the climate and environment. In her free time, she enjoys reading, playing video games, and baking. 
