@@ -23,6 +23,7 @@ navbar-links:
     - Org Database: "orgdatabase"
     - Publications: "publications"
     - Working Papers: "workingpapers"
+    - GRP Gazette: "https://globalrestorationproject.substack.com"
   Blog: blog
 
 # --- Logo --- #
