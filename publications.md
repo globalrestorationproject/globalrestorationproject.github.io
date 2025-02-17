@@ -7,7 +7,7 @@ cover-img: /assets/img/aerial_green_field.jpg
 Although the Global Restoration Project does not itself publish books, we wish to highlight several books and other pubplications that have a close connection to the aims and operations of the Global Restoration Project.  We welcome notifications about other publications written by, or of interest to, others involved in Restoration-related issues.
 
 All Publications (more details on book appear below):
-* [*International Law and Species Diversity: An Immodest Proposal for Implementing a Progressive 30x30 Natural Restoration Initiative in the Great North American Prairies*, 33 Kansas Journal of Law & Public Policy (2024).](https://lawjournal.ku.edu/wp-content/uploads/2024/05/Head_30x30_FINAL.pdf)
+* [*International Law and Species Diversity: An Immodest Proposal for Implementing a Progressive 30x30 Natural Restoration Initiative in the Great North American Prairies*, 33 Kansas Journal of Law & Public Policy, by John W. Head (2024).](https://lawjournal.ku.edu/wp-content/uploads/2024/05/Head_30x30_FINAL.pdf)
 * *Planetary Health in time of converging crises: Reflections of Stockhold, Decolonization, Restoration, and Global Ecological Governance*, 19 LEAD Journal 285-300, by John W. Head (2023)
 * *More Than Friends? U.S.-Canada Cooperative Frameworks on Agriculture and the Environment*, 70 Kansas Law Review 447-482, by John W. Head and Emily Otte (2022).
 * Deep Agroecology and the Homeric Epics: Global Cultural Reform for a Natural-Systems Agriculture, by John W. Head (2021)
