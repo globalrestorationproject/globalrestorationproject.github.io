@@ -51,13 +51,6 @@ Emily is an attorney holding a J.D. degree from the University of Kansas where s
 
 ---
 
-#### Chloe Ketchmark
-<img src="/assets/img/chloe-pic.png" width="200" height="200"/>
-
-Chloe graduated from the University of Kansas School of Law in May 2022 with a J.D. degree. Prior to law school, she graduated from Boston University with a degree in pure and applied mathematics. She also worked as a research assistant, leading pipeline data management, in a neuroscience lab. At KU Law, she was a teaching assistant for the Lawyering Skills course, an Articles Editor for the Kansas Law Review, and a member of the Moot Court Council. Now, Chloe has worked in the U.S. District Courts system and is currently a Staff Attorney at the Legal Aid of Western Missouri. In her sparetime, Chloe walks her dogs, runs, teaches yoga, and likes to sew. 
-
----
-
 #### Margy Stewart
 <img src="/assets/img/margy-pic.jpg" width="150" height="200"/>
 
