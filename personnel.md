@@ -66,7 +66,7 @@ Danny Volin graduated from the University of Kansas School of Law in December 20
 ---
 
 #### David Halliwell
-<img src="/assets/img/David-pic.png" width="215" height="175"/>
+<img src="/assets/img/David-pic.png" width="230" height="175"/>
 
 David Halliwell graduated from the University of Kansas School of Law in May 2022 with a J.D. degree and certificates in environment, energy, and natural resources law and international trade & finance. Prior to law school, he graduated from the University of Kansas with degrees in history and political science. While at KU Law, he was the president of the International Law Society, an Article Editor for the Kansas Journal of Law and Public Policy, and on the Jessup Moot Court team. He currently works as an Associate Attorney at Barber Emerson in Lawrence, Kansas. In his free time, David plays violin in a string quartet and aquascapes aquariums.  
 
@@ -79,7 +79,6 @@ Joshua Lollar is a J.D. Candidate (class of 2025) at the KU School of Law. He is
 
 ---
 
-#### Emma Dipoto
-<img src="/assets/img/Emma-pic.png" width="185" height="220"/>
+#### Grace Wyatt
 
-Emma received her JD and certificate in Environment, Energy and Natural Resources Law from the University of Kansas School of Law in May 2024. Before law school, she received her BA in Sustainability Studies, Business Administration, and English from Graceland University. Emma is passionate about environmental and energy law, with a particular interest in how our food systems impact the climate and environment. In her free time, she enjoys reading, playing video games, and baking. 
+Grace is a second-year JD student at the Univeristy of Kansas School of Law. Before law school, Grace received her BA in Political Science from Kansas State University. Grace is interested in international law and comparative politics. She currently serves as the law school's representive to the Kansas Lawyers Assistance Program Board of Directors and as the vice president of Balance & Well-Being, both focused on providing mental health resources to the legal community. In her free time, Grace enjoys practicing aerial acrobatics, golf, and oil painting. 
