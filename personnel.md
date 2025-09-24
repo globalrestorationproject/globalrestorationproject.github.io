@@ -77,9 +77,3 @@ David Halliwell graduated from the University of Kansas School of Law in May 202
 
 Joshua Lollar is a J.D. Candidate (class of 2025) at the KU School of Law. He is married and has five children. He is a native Kansan and grew up in Lawrence and Wichita. He holds a PhD in theology and has done research on religious history and religion and the environment. After graduation, Joshua will start a federal clerkship with the Honorable David Gregory Kays in the Western District of Missouri.  
 
----
-
-#### Emma Dipoto
-<img src="/assets/img/Emma-pic.png" width="185" height="220"/>
-
-Emma received her JD and certificate in Environment, Energy and Natural Resources Law from the University of Kansas School of Law in May 2024. Before law school, she received her BA in Sustainability Studies, Business Administration, and English from Graceland University. Emma is passionate about environmental and energy law, with a particular interest in how our food systems impact the climate and environment. In her free time, she enjoys reading, playing video games, and baking. 
